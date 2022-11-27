@@ -1,0 +1,1385 @@
+// AUTOR: Claudio E. Seguel Abarzúa
+// ANO  : 2015
+// EMAIL: seguel.claudio.a@gmail.com
+[
+  {
+    "Comuna/localidad": "Algarrobo",
+    "Código": 2710000
+  },
+  {
+    "Comuna/localidad": "Alhué",
+    "Código": 9650000
+  },
+  {
+    "Comuna/localidad": "Alto Biobío",
+    "Código": 4590000
+  },
+  {
+    "Comuna/localidad": "Alto del Carmen",
+    "Código": 1650000
+  },
+  {
+    "Comuna/localidad": "Alto Hospicio",
+    "Código": 1130000
+  },
+  {
+    "Comuna/localidad": "Ancud",
+    "Código": 5710000
+  },
+  {
+    "Comuna/localidad": "Andacollo",
+    "Código": 1750000
+  },
+  {
+    "Comuna/localidad": "Angol",
+    "Código": 4650000
+  },
+  {
+    "Comuna/localidad": "Antártica",
+    "Código": 6360000
+  },
+  {
+    "Comuna/localidad": "Antofagasta",
+    "Código": 1240000
+  },
+  {
+    "Comuna/localidad": "Antuco",
+    "Código": 4490000
+  },
+  {
+    "Comuna/localidad": "Arauco",
+    "Código": 4360000
+  },
+  {
+    "Comuna/localidad": "Arica",
+    "Código": 1000000
+  },
+  {
+    "Comuna/localidad": "Aysén",
+    "Código": 6000000
+  },
+  {
+    "Comuna/localidad": "Buin",
+    "Código": 9500000
+  },
+  {
+    "Comuna/localidad": "Bulnes",
+    "Código": 3930000
+  },
+  {
+    "Comuna/localidad": "Cabildo",
+    "Código": 2050000
+  },
+  {
+    "Comuna/localidad": "Cabo de Hornos",
+    "Código": 6350000
+  },
+  {
+    "Comuna/localidad": "Cabrero",
+    "Código": 4470000
+  },
+  {
+    "Comuna/localidad": "Calama",
+    "Código": 1390000
+  },
+  {
+    "Comuna/localidad": "Calbuco",
+    "Código": 5570000
+  },
+  {
+    "Comuna/localidad": "Caldera",
+    "Código": 1570000
+  },
+  {
+    "Comuna/localidad": "Calera",
+    "Código": 2290000
+  },
+  {
+    "Comuna/localidad": "Calera de Tango",
+    "Código": 9560000
+  },
+  {
+    "Comuna/localidad": "Calle Larga",
+    "Código": 2130000
+  },
+  {
+    "Comuna/localidad": "Camarones",
+    "Código": 1040000
+  },
+  {
+    "Comuna/localidad": "Camiña",
+    "Código": 1150000
+  },
+  {
+    "Comuna/localidad": "Canela",
+    "Código": 1960000
+  },
+  {
+    "Comuna/localidad": "Cañete",
+    "Código": 4390000
+  },
+  {
+    "Comuna/localidad": "Carahue",
+    "Código": 5010000
+  },
+  {
+    "Comuna/localidad": "Cartagena",
+    "Código": 2680000
+  },
+  {
+    "Comuna/localidad": "Casablanca",
+    "Código": 2480000
+  },
+  {
+    "Comuna/localidad": "Castro",
+    "Código": 5700000
+  },
+  {
+    "Comuna/localidad": "Catemu",
+    "Código": 2230000
+  },
+  {
+    "Comuna/localidad": "Cauquenes",
+    "Código": 3690000
+  },
+  {
+    "Comuna/localidad": "Cerrillos",
+    "Código": 9200000
+  },
+  {
+    "Comuna/localidad": "Cerro Navia",
+    "Código": 9080000
+  },
+  {
+    "Comuna/localidad": "Chaitén",
+    "Código": 5850000
+  },
+  {
+    "Comuna/localidad": "Chanco",
+    "Código": 3720000
+  },
+  {
+    "Comuna/localidad": "Chañaral",
+    "Código": 1490000
+  },
+  {
+    "Comuna/localidad": "Chépica",
+    "Código": 3120000
+  },
+  {
+    "Comuna/localidad": "Chiguayante",
+    "Código": 4100000
+  },
+  {
+    "Comuna/localidad": "Chile Chico",
+    "Código": 6050000
+  },
+  {
+    "Comuna/localidad": "Chillán",
+    "Código": 3780000
+  },
+  {
+    "Comuna/localidad": "Chillán Viejo",
+    "Código": 3820000
+  },
+  {
+    "Comuna/localidad": "Chimbarongo",
+    "Código": 3090000
+  },
+  {
+    "Comuna/localidad": "Cholchol",
+    "Código": 5040000
+  },
+  {
+    "Comuna/localidad": "Chonchi",
+    "Código": 5770000
+  },
+  {
+    "Comuna/localidad": "Cisnes",
+    "Código": 6010000
+  },
+  {
+    "Comuna/localidad": "Cobquecura",
+    "Código": 3990000
+  },
+  {
+    "Comuna/localidad": "Cochamó",
+    "Código": 5560000
+  },
+  {
+    "Comuna/localidad": "Cochrane",
+    "Código": 6100000
+  },
+  {
+    "Comuna/localidad": "Codegua",
+    "Código": 2900000
+  },
+  {
+    "Comuna/localidad": "Coelemu",
+    "Código": 3970000
+  },
+  {
+    "Comuna/localidad": "Coihueco",
+    "Código": 3870000
+  },
+  {
+    "Comuna/localidad": "Coinco",
+    "Código": 3010000
+  },
+  {
+    "Comuna/localidad": "Colbún",
+    "Código": 3610000
+  },
+  {
+    "Comuna/localidad": "Colchane",
+    "Código": 1160000
+  },
+  {
+    "Comuna/localidad": "Colina",
+    "Código": 9340000
+  },
+  {
+    "Comuna/localidad": "Collipulli",
+    "Código": 4680000
+  },
+  {
+    "Comuna/localidad": "Coltauco",
+    "Código": 3000000
+  },
+  {
+    "Comuna/localidad": "Combarbalá",
+    "Código": 1890000
+  },
+  {
+    "Comuna/localidad": "Concepción",
+    "Código": 4030000
+  },
+  {
+    "Comuna/localidad": "Conchalí",
+    "Código": 8540000
+  },
+  {
+    "Comuna/localidad": "Concón",
+    "Código": 2510000
+  },
+  {
+    "Comuna/localidad": "Constitución",
+    "Código": 3560000
+  },
+  {
+    "Comuna/localidad": "Contulmo",
+    "Código": 4400000
+  },
+  {
+    "Comuna/localidad": "Copiapó",
+    "Código": 1530000
+  },
+  {
+    "Comuna/localidad": "Coquimbo",
+    "Código": 1780000
+  },
+  {
+    "Comuna/localidad": "Coronel",
+    "Código": 4190000
+  },
+  {
+    "Comuna/localidad": "Corral",
+    "Código": 5190000
+  },
+  {
+    "Comuna/localidad": "Coyhaique",
+    "Código": 5950000
+  },
+  {
+    "Comuna/localidad": "Cunco",
+    "Código": 4890000
+  },
+  {
+    "Comuna/localidad": "Curacautín",
+    "Código": 4700000
+  },
+  {
+    "Comuna/localidad": "Curacaví",
+    "Código": 9630000
+  },
+  {
+    "Comuna/localidad": "Curaco de Vélez",
+    "Código": 5740000
+  },
+  {
+    "Comuna/localidad": "Curanilahue",
+    "Código": 4370000
+  },
+  {
+    "Comuna/localidad": "Curarrehue",
+    "Código": 4910000
+  },
+  {
+    "Comuna/localidad": "Curepto",
+    "Código": 3570000
+  },
+  {
+    "Comuna/localidad": "Curicó",
+    "Código": 3340000
+  },
+  {
+    "Comuna/localidad": "Dalcahue",
+    "Código": 5730000
+  },
+  {
+    "Comuna/localidad": "Diego de Almagro",
+    "Código": 1500000
+  },
+  {
+    "Comuna/localidad": "Doñihue",
+    "Código": 3020000
+  },
+  {
+    "Comuna/localidad": "El Bosque",
+    "Código": 8010000
+  },
+  {
+    "Comuna/localidad": "El Carmen",
+    "Código": 3900000
+  },
+  {
+    "Comuna/localidad": "El Monte",
+    "Código": 9810000
+  },
+  {
+    "Comuna/localidad": "El Quisco",
+    "Código": 2700000
+  },
+  {
+    "Comuna/localidad": "El Tabo",
+    "Código": 2690000
+  },
+  {
+    "Comuna/localidad": "Empedrado",
+    "Código": 3540000
+  },
+  {
+    "Comuna/localidad": "Ercilla",
+    "Código": 4710000
+  },
+  {
+    "Comuna/localidad": "Estación Central",
+    "Código": 9160000
+  },
+  {
+    "Comuna/localidad": "Florida",
+    "Código": 4170000
+  },
+  {
+    "Comuna/localidad": "Freire",
+    "Código": 4940000
+  },
+  {
+    "Comuna/localidad": "Freirina",
+    "Código": 1630000
+  },
+  {
+    "Comuna/localidad": "Fresia",
+    "Código": 5600000
+  },
+  {
+    "Comuna/localidad": "Frutillar",
+    "Código": 5620000
+  },
+  {
+    "Comuna/localidad": "Futaleufú",
+    "Código": 5870000
+  },
+  {
+    "Comuna/localidad": "Futrono",
+    "Código": 5180000
+  },
+  {
+    "Comuna/localidad": "Galvarino",
+    "Código": 5030000
+  },
+  {
+    "Comuna/localidad": "General Lagos",
+    "Código": 1080000
+  },
+  {
+    "Comuna/localidad": "Gorbea",
+    "Código": 4960000
+  },
+  {
+    "Comuna/localidad": "Graneros",
+    "Código": 2880000
+  },
+  {
+    "Comuna/localidad": "Guaitecas",
+    "Código": 6020000
+  },
+  {
+    "Comuna/localidad": "Hijuelas",
+    "Código": 2310000
+  },
+  {
+    "Comuna/localidad": "Hualaihué",
+    "Código": 5860000
+  },
+  {
+    "Comuna/localidad": "Hualañé",
+    "Código": 3400000
+  },
+  {
+    "Comuna/localidad": "Hualpén",
+    "Código": 4600000
+  },
+  {
+    "Comuna/localidad": "Hualqui",
+    "Código": 4180000
+  },
+  {
+    "Comuna/localidad": "Huara",
+    "Código": 1140000
+  },
+  {
+    "Comuna/localidad": "Huasco",
+    "Código": 1640000
+  },
+  {
+    "Comuna/localidad": "Huechuraba",
+    "Código": 8580000
+  },
+  {
+    "Comuna/localidad": "Illapel",
+    "Código": 1930000
+  },
+  {
+    "Comuna/localidad": "Independencia",
+    "Código": 8380000
+  },
+  {
+    "Comuna/localidad": "Iquique",
+    "Código": 1100000
+  },
+  {
+    "Comuna/localidad": "Isla de Maipo",
+    "Código": 9790000
+  },
+  {
+    "Comuna/localidad": "Isla de Pascua",
+    "Código": 2770000
+  },
+  {
+    "Comuna/localidad": "Juan Fernández",
+    "Código": 2600000
+  },
+  {
+    "Comuna/localidad": "La Cisterna",
+    "Código": 7970000
+  },
+  {
+    "Comuna/localidad": "La Cruz",
+    "Código": 2280000
+  },
+  {
+    "Comuna/localidad": "La Estrella",
+    "Código": 3250000
+  },
+  {
+    "Comuna/localidad": "La Florida",
+    "Código": 8240000
+  },
+  {
+    "Comuna/localidad": "La Granja",
+    "Código": 8780000
+  },
+  {
+    "Comuna/localidad": "La Higuera",
+    "Código": 1740000
+  },
+  {
+    "Comuna/localidad": "La Ligua",
+    "Código": 2040000
+  },
+  {
+    "Comuna/localidad": "La Pintana",
+    "Código": 8820000
+  },
+  {
+    "Comuna/localidad": "La Reina",
+    "Código": 7850000
+  },
+  {
+    "Comuna/localidad": "Labranza",
+    "Código": 4810000
+  },
+  {
+    "Comuna/localidad": "La Serena",
+    "Código": 1700000
+  },
+  {
+    "Comuna/localidad": "La Unión",
+    "Código": 5220000
+  },
+  {
+    "Comuna/localidad": "Lago Ranco",
+    "Código": 5250000
+  },
+  {
+    "Comuna/localidad": "Lago Verde",
+    "Código": 5960000
+  },
+  {
+    "Comuna/localidad": "Laguna Blanca",
+    "Código": 6250000
+  },
+  {
+    "Comuna/localidad": "Laja",
+    "Código": 4560000
+  },
+  {
+    "Comuna/localidad": "Lampa",
+    "Código": 9380000
+  },
+  {
+    "Comuna/localidad": "Lanco",
+    "Código": 5160000
+  },
+  {
+    "Comuna/localidad": "Las Cabras",
+    "Código": 3030000
+  },
+  {
+    "Comuna/localidad": "Las Condes",
+    "Código": 7550000
+  },
+  {
+    "Comuna/localidad": "Lautaro",
+    "Código": 4860000
+  },
+  {
+    "Comuna/localidad": "Lebu",
+    "Código": 4350000
+  },
+  {
+    "Comuna/localidad": "Licantén",
+    "Código": 3410000
+  },
+  {
+    "Comuna/localidad": "Limache",
+    "Código": 2240000
+  },
+  {
+    "Comuna/localidad": "Linares",
+    "Código": 3580000
+  },
+  {
+    "Comuna/localidad": "Litueche",
+    "Código": 3240000
+  },
+  {
+    "Comuna/localidad": "Llaillay",
+    "Código": 2220000
+  },
+  {
+    "Comuna/localidad": "Llanquihue",
+    "Código": 5610000
+  },
+  {
+    "Comuna/localidad": "Lo Barnechea",
+    "Código": 7690000
+  },
+  {
+    "Comuna/localidad": "Lo Espejo",
+    "Código": 9120000
+  },
+  {
+    "Comuna/localidad": "Lo Prado",
+    "Código": 8980000
+  },
+  {
+    "Comuna/localidad": "Lolol",
+    "Código": 3140000
+  },
+  {
+    "Comuna/localidad": "Loncoche",
+    "Código": 4970000
+  },
+  {
+    "Comuna/localidad": "Longaví",
+    "Código": 3620000
+  },
+  {
+    "Comuna/localidad": "Lonquimay",
+    "Código": 4690000
+  },
+  {
+    "Comuna/localidad": "Los Álamos",
+    "Código": 4380000
+  },
+  {
+    "Comuna/localidad": "Los Andes",
+    "Código": 2100000
+  },
+  {
+    "Comuna/localidad": "Los Ángeles",
+    "Código": 4440000
+  },
+  {
+    "Comuna/localidad": "Los Lagos",
+    "Código": 5170000
+  },
+  {
+    "Comuna/localidad": "Los Muermos",
+    "Código": 5590000
+  },
+  {
+    "Comuna/localidad": "Los Sauces",
+    "Código": 4760000
+  },
+  {
+    "Comuna/localidad": "Los Vilos",
+    "Código": 1940000
+  },
+  {
+    "Comuna/localidad": "Lota",
+    "Código": 4210000
+  },
+  {
+    "Comuna/localidad": "Lumaco",
+    "Código": 4740000
+  },
+  {
+    "Comuna/localidad": "Machalí",
+    "Código": 2910000
+  },
+  {
+    "Comuna/localidad": "Macul",
+    "Código": 7810000
+  },
+  {
+    "Comuna/localidad": "Máfil",
+    "Código": 5200000
+  },
+  {
+    "Comuna/localidad": "Maipú",
+    "Código": 9250000
+  },
+  {
+    "Comuna/localidad": "Malloa",
+    "Código": 2950000
+  },
+  {
+    "Comuna/localidad": "Marchigüe",
+    "Código": 3260000
+  },
+  {
+    "Comuna/localidad": "María Elena",
+    "Código": 1360000
+  },
+  {
+    "Comuna/localidad": "María Pinto",
+    "Código": 9620000
+  },
+  {
+    "Comuna/localidad": "Mariquina",
+    "Código": 5150000
+  },
+  {
+    "Comuna/localidad": "Maule",
+    "Código": 3530000
+  },
+  {
+    "Comuna/localidad": "Maullín",
+    "Código": 5580000
+  },
+  {
+    "Comuna/localidad": "Mejillones",
+    "Código": 1310000
+  },
+  {
+    "Comuna/localidad": "Melipeuco",
+    "Código": 4900000
+  },
+  {
+    "Comuna/localidad": "Melipilla",
+    "Código": 9580000
+  },
+  {
+    "Comuna/localidad": "Molina",
+    "Código": 3380000
+  },
+  {
+    "Comuna/localidad": "Monte Patria",
+    "Código": 1880000
+  },
+  {
+    "Comuna/localidad": "Mostazal",
+    "Código": 2890000
+  },
+  {
+    "Comuna/localidad": "Mulchén",
+    "Código": 4530000
+  },
+  {
+    "Comuna/localidad": "Nacimiento",
+    "Código": 4550000
+  },
+  {
+    "Comuna/localidad": "Nancagua",
+    "Código": 3110000
+  },
+  {
+    "Comuna/localidad": "Navidad",
+    "Código": 3230000
+  },
+  {
+    "Comuna/localidad": "Negrete",
+    "Código": 4540000
+  },
+  {
+    "Comuna/localidad": "Nogales",
+    "Código": 2300000
+  },
+  {
+    "Comuna/localidad": "Nueva Imperial",
+    "Código": 5020000
+  },
+  {
+    "Comuna/localidad": "Ninhue",
+    "Código": 4010000
+  },
+  {
+    "Comuna/localidad": "Ñiquén",
+    "Código": 3850000
+  },
+  {
+    "Comuna/localidad": "Ñuñoa",
+    "Código": 7750000
+  },
+  {
+    "Comuna/localidad": "O'Higgins",
+    "Código": 6110000
+  },
+  {
+    "Comuna/localidad": "Olivar",
+    "Código": 2920000
+  },
+  {
+    "Comuna/localidad": "Ollagüe",
+    "Código": 1420000
+  },
+  {
+    "Comuna/localidad": "Olmué",
+    "Código": 2330000
+  },
+  {
+    "Comuna/localidad": "Osorno",
+    "Código": 5290000
+  },
+  {
+    "Comuna/localidad": "Ovalle",
+    "Código": 1840000
+  },
+  {
+    "Comuna/localidad": "Padre Hurtado",
+    "Código": 9710000
+  },
+  {
+    "Comuna/localidad": "Padre Las Casas",
+    "Código": 4850000
+  },
+  {
+    "Comuna/localidad": "Paihuano",
+    "Código": 1770000
+  },
+  {
+    "Comuna/localidad": "Paillaco",
+    "Código": 5230000
+  },
+  {
+    "Comuna/localidad": "Paine",
+    "Código": 9540000
+  },
+  {
+    "Comuna/localidad": "Palena",
+    "Código": 5880000
+  },
+  {
+    "Comuna/localidad": "Palmilla",
+    "Código": 3160000
+  },
+  {
+    "Comuna/localidad": "Panguipulli",
+    "Código": 5210000
+  },
+  {
+    "Comuna/localidad": "Panquehue",
+    "Código": 2210000
+  },
+  {
+    "Comuna/localidad": "Papudo",
+    "Código": 2070000
+  },
+  {
+    "Comuna/localidad": "Paredones",
+    "Código": 3270000
+  },
+  {
+    "Comuna/localidad": "Parral",
+    "Código": 3630000
+  },
+  {
+    "Comuna/localidad": "Pedro Aguirre Cerda",
+    "Código": 8460000
+  },
+  {
+    "Comuna/localidad": "Pelarco",
+    "Código": 3500000
+  },
+  {
+    "Comuna/localidad": "Pelluhue",
+    "Código": 3710000
+  },
+  {
+    "Comuna/localidad": "Pemuco",
+    "Código": 3910000
+  },
+  {
+    "Comuna/localidad": "Pencahue",
+    "Código": 3550000
+  },
+  {
+    "Comuna/localidad": "Penco",
+    "Código": 4150000
+  },
+  {
+    "Comuna/localidad": "Peñaflor",
+    "Código": 9750000
+  },
+  {
+    "Comuna/localidad": "Peñalolén",
+    "Código": 7910000
+  },
+  {
+    "Comuna/localidad": "Peralillo",
+    "Código": 3170000
+  },
+  {
+    "Comuna/localidad": "Perquenco",
+    "Código": 4870000
+  },
+  {
+    "Comuna/localidad": "Petorca",
+    "Código": 2030000
+  },
+  {
+    "Comuna/localidad": "Peumo",
+    "Código": 2990000
+  },
+  {
+    "Comuna/localidad": "Pica",
+    "Código": 1170000
+  },
+  {
+    "Comuna/localidad": "Pichidegua",
+    "Código": 2980000
+  },
+  {
+    "Comuna/localidad": "Pichilemu",
+    "Código": 3220000
+  },
+  {
+    "Comuna/localidad": "Pinto",
+    "Código": 3880000
+  },
+  {
+    "Comuna/localidad": "Pirque",
+    "Código": 9480000
+  },
+  {
+    "Comuna/localidad": "Pitrufquén",
+    "Código": 4950000
+  },
+  {
+    "Comuna/localidad": "Placilla",
+    "Código": 3100000
+  },
+  {
+    "Comuna/localidad": "Portezuelo",
+    "Código": 3960000
+  },
+  {
+    "Comuna/localidad": "Porvenir",
+    "Código": 6300000
+  },
+  {
+    "Comuna/localidad": "Pozo Almonte",
+    "Código": 1180000
+  },
+  {
+    "Comuna/localidad": "Primavera",
+    "Código": 6310000
+  },
+  {
+    "Comuna/localidad": "Providencia",
+    "Código": 7500000
+  },
+  {
+    "Comuna/localidad": "Puchuncaví",
+    "Código": 2500000
+  },
+  {
+    "Comuna/localidad": "Pucón",
+    "Código": 4920000
+  },
+  {
+    "Comuna/localidad": "Pudahuel",
+    "Código": 9020000
+  },
+  {
+    "Comuna/localidad": "Puente Alto",
+    "Código": 8150000
+  },
+  {
+    "Comuna/localidad": "Puerto Montt",
+    "Código": 5480000
+  },
+  {
+    "Comuna/localidad": "Puerto Natales",
+    "Código": 6160000
+  },
+  {
+    "Comuna/localidad": "Puerto Octay",
+    "Código": 5370000
+  },
+  {
+    "Comuna/localidad": "Puerto Varas",
+    "Código": 5550000
+  },
+  {
+    "Comuna/localidad": "Pumanque",
+    "Código": 3150000
+  },
+  {
+    "Comuna/localidad": "Punta Arenas",
+    "Código": 6200000
+  },
+  {
+    "Comuna/localidad": "Punitaqui",
+    "Código": 1900000
+  },
+  {
+    "Comuna/localidad": "Purén",
+    "Código": 4750000
+  },
+  {
+    "Comuna/localidad": "Purranque",
+    "Código": 5380000
+  },
+  {
+    "Comuna/localidad": "Puqueldón",
+    "Código": 5760000
+  },
+  {
+    "Comuna/localidad": "Putaendo",
+    "Código": 2190000
+  },
+  {
+    "Comuna/localidad": "Putre",
+    "Código": 1070000
+  },
+  {
+    "Comuna/localidad": "Puyehue",
+    "Código": 5360000
+  },
+  {
+    "Comuna/localidad": "Queilén",
+    "Código": 5780000
+  },
+  {
+    "Comuna/localidad": "Quellón",
+    "Código": 5790000
+  },
+  {
+    "Comuna/localidad": "Quemchi",
+    "Código": 5720000
+  },
+  {
+    "Comuna/localidad": "Quilaco",
+    "Código": 4520000
+  },
+  {
+    "Comuna/localidad": "Quilicura",
+    "Código": 8700000
+  },
+  {
+    "Comuna/localidad": "Quilleco",
+    "Código": 4500000
+  },
+  {
+    "Comuna/localidad": "Quillón",
+    "Código": 3940000
+  },
+  {
+    "Comuna/localidad": "Quillota",
+    "Código": 2260000
+  },
+  {
+    "Comuna/localidad": "Quilpué",
+    "Código": 2430000
+  },
+  {
+    "Comuna/localidad": "Quinchao",
+    "Código": 5750000
+  },
+  {
+    "Comuna/localidad": "Quinta de Tilcoco",
+    "Código": 2960000
+  },
+  {
+    "Comuna/localidad": "Quinta Normal",
+    "Código": 8500000
+  },
+  {
+    "Comuna/localidad": "Quintero",
+    "Código": 2490000
+  },
+  {
+    "Comuna/localidad": "Quirihue",
+    "Código": 4000000
+  },
+  {
+    "Comuna/localidad": "Rancagua",
+    "Código": 2820000
+  },
+  {
+    "Comuna/localidad": "Ránquil",
+    "Código": 3950000
+  },
+  {
+    "Comuna/localidad": "Rauco",
+    "Código": 3430000
+  },
+  {
+    "Comuna/localidad": "Recoleta",
+    "Código": 8420000
+  },
+  {
+    "Comuna/localidad": "Renaico",
+    "Código": 4670000
+  },
+  {
+    "Comuna/localidad": "Renca",
+    "Código": 8640000
+  },
+  {
+    "Comuna/localidad": "Rengo",
+    "Código": 2940000
+  },
+  {
+    "Comuna/localidad": "Requínoa",
+    "Código": 2930000
+  },
+  {
+    "Comuna/localidad": "Retiro",
+    "Código": 3640000
+  },
+  {
+    "Comuna/localidad": "Rinconada",
+    "Código": 2140000
+  },
+  {
+    "Comuna/localidad": "Río Bueno",
+    "Código": 5240000
+  },
+  {
+    "Comuna/localidad": "Río Claro",
+    "Código": 3510000
+  },
+  {
+    "Comuna/localidad": "Río Hurtado",
+    "Código": 1870000
+  },
+  {
+    "Comuna/localidad": "Río Ibáñez",
+    "Código": 6060000
+  },
+  {
+    "Comuna/localidad": "Río Negro",
+    "Código": 5390000
+  },
+  {
+    "Comuna/localidad": "Río Verde",
+    "Código": 6240000
+  },
+  {
+    "Comuna/localidad": "Romeral",
+    "Código": 3370000
+  },
+  {
+    "Comuna/localidad": "Saavedra",
+    "Código": 5000000
+  },
+  {
+    "Comuna/localidad": "Sagrada Familia",
+    "Código": 3390000
+  },
+  {
+    "Comuna/localidad": "Salamanca",
+    "Código": 1950000
+  },
+  {
+    "Comuna/localidad": "San Antonio",
+    "Código": 2660000
+  },
+  {
+    "Comuna/localidad": "San Bernardo",
+    "Código": 8050000
+  },
+  {
+    "Comuna/localidad": "San Carlos",
+    "Código": 3840000
+  },
+  {
+    "Comuna/localidad": "San Clemente",
+    "Código": 3520000
+  },
+  {
+    "Comuna/localidad": "San Esteban",
+    "Código": 2120000
+  },
+  {
+    "Comuna/localidad": "San Fabián de Alico",
+    "Código": 3860000
+  },
+  {
+    "Comuna/localidad": "San Felipe",
+    "Código": 2170000
+  },
+  {
+    "Comuna/localidad": "San Fernando",
+    "Código": 3070000
+  },
+  {
+    "Comuna/localidad": "San Gregorio",
+    "Código": 6260000
+  },
+  {
+    "Comuna/localidad": "San Ignacio",
+    "Código": 3890000
+  },
+  {
+    "Comuna/localidad": "San Javier",
+    "Código": 3660000
+  },
+  {
+    "Comuna/localidad": "San Joaquín",
+    "Código": 8940000
+  },
+  {
+    "Comuna/localidad": "San José de Maipo",
+    "Código": 9460000
+  },
+  {
+    "Comuna/localidad": "San Juan de la Costa",
+    "Código": 5400000
+  },
+  {
+    "Comuna/localidad": "San Miguel",
+    "Código": 8900000
+  },
+  {
+    "Comuna/localidad": "San Nicolás",
+    "Código": 4020000
+  },
+  {
+    "Comuna/localidad": "San Pablo",
+    "Código": 5350000
+  },
+  {
+    "Comuna/localidad": "San Pedro de Atacama",
+    "Código": 1410000
+  },
+  {
+    "Comuna/localidad": "San Pedro de la Paz",
+    "Código": 4130000
+  },
+  {
+    "Comuna/localidad": "San Rafael",
+    "Código": 3490000
+  },
+  {
+    "Comuna/localidad": "San Ramón",
+    "Código": 8860000
+  },
+  {
+    "Comuna/localidad": "San Rosendo",
+    "Código": 4570000
+  },
+  {
+    "Comuna/localidad": "San Vicente",
+    "Código": 2970000
+  },
+  {
+    "Comuna/localidad": "Santa Bárbara",
+    "Código": 4510000
+  },
+  {
+    "Comuna/localidad": "Santa Cruz",
+    "Código": 3130000
+  },
+  {
+    "Comuna/localidad": "Santa Juana",
+    "Código": 4230000
+  },
+  {
+    "Comuna/localidad": "Santa María",
+    "Código": 2200000
+  },
+  {
+    "Comuna/localidad": "Santiago",
+    "Código": 8320000
+  },
+  {
+    "Comuna/localidad": "Santo Domingo",
+    "Código": 2720000
+  },
+  {
+    "Comuna/localidad": "Sierra Gorda",
+    "Código": 1320000
+  },
+  {
+    "Comuna/localidad": "Talagante",
+    "Código": 9670000
+  },
+  {
+    "Comuna/localidad": "Talca",
+    "Código": 3460000
+  },
+  {
+    "Comuna/localidad": "Talcahuano",
+    "Código": 4260000
+  },
+  {
+    "Comuna/localidad": "Taltal",
+    "Código": 1300000
+  },
+  {
+    "Comuna/localidad": "Temuco",
+    "Código": 4780000
+  },
+  {
+    "Comuna/localidad": "Teno",
+    "Código": 3360000
+  },
+  {
+    "Comuna/localidad": "Teodoro Schmidt",
+    "Código": 4990000
+  },
+  {
+    "Comuna/localidad": "Tierra Amarilla",
+    "Código": 1580000
+  },
+  {
+    "Comuna/localidad": "Tiltil",
+    "Código": 9420000
+  },
+  {
+    "Comuna/localidad": "Timaukel",
+    "Código": 6320000
+  },
+  {
+    "Comuna/localidad": "Tirúa",
+    "Código": 4410000
+  },
+  {
+    "Comuna/localidad": "Tocopilla",
+    "Código": 1340000
+  },
+  {
+    "Comuna/localidad": "Toltén",
+    "Código": 4980000
+  },
+  {
+    "Comuna/localidad": "Tomé",
+    "Código": 4160000
+  },
+  {
+    "Comuna/localidad": "Tortel",
+    "Código": 6120000
+  },
+  {
+    "Comuna/localidad": "Traiguén",
+    "Código": 4730000
+  },
+  {
+    "Comuna/localidad": "Treguaco",
+    "Código": 3980000
+  },
+  {
+    "Comuna/localidad": "Tucapel",
+    "Código": 4480000
+  },
+  {
+    "Comuna/localidad": "Valdivia",
+    "Código": 5090000
+  },
+  {
+    "Comuna/localidad": "Vallenar",
+    "Código": 1610000
+  },
+  {
+    "Comuna/localidad": "Valparaíso",
+    "Código": 2340000
+  },
+  {
+    "Comuna/localidad": "Vichuquén",
+    "Código": 3420000
+  },
+  {
+    "Comuna/localidad": "Victoria",
+    "Código": 4720000
+  },
+  {
+    "Comuna/localidad": "Vicuña",
+    "Código": 1760000
+  },
+  {
+    "Comuna/localidad": "Vilcún",
+    "Código": 4880000
+  },
+  {
+    "Comuna/localidad": "Villa Alegre",
+    "Código": 3650000
+  },
+  {
+    "Comuna/localidad": "Villa Alemana",
+    "Código": 6500000
+  },
+  {
+    "Comuna/localidad": "Villarrica",
+    "Código": 4930000
+  },
+  {
+    "Comuna/localidad": "Viña del Mar",
+    "Código": 2520000
+  },
+  {
+    "Comuna/localidad": "Vitacura",
+    "Código": 7630000
+  },
+  {
+    "Comuna/localidad": "Yerbas Buenas",
+    "Código": 3600000
+  },
+  {
+    "Comuna/localidad": "Yumbel",
+    "Código": 4580000
+  },
+  {
+    "Comuna/localidad": "Yungay",
+    "Código": 3920000
+  },
+  {
+    "Comuna/localidad": "Zapallar",
+    "Código": 2060000
+  }
+]
