@@ -1,8 +1,8 @@
 # Conociendo-tu-comuna 🚀 
-![Texto alternativo](app/vistas/img/base0.png)
-![Texto alternativo](app/vistas/img/base1.png)
-![Texto alternativo](app/vistas/img/base2.png)
 ![Texto alternativo](app/vistas/img/base3.png)
+![Texto alternativo](app/vistas/img/base2.png)
+![Texto alternativo](app/vistas/img/base1.png)
+![Texto alternativo](app/vistas/img/base0.png)
 Este proyecto fue desarrollado con fines académicos e informativos. La información presentada se obtuvo a partir de los datos del Censo 2024 realizado en Chile. Su origen responde a un interés particular, pero se encuentra abierto para toda la comunidad, incluyendo tanto a entidades públicas como privadas.
 
 El panel informativo o dashboard fue construido utilizando diversas tecnologías para el procesamiento, análisis y visualización de datos, entre ellas:
