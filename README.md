@@ -1,8 +1,8 @@
 # Conociendo-tu-comuna 🚀 
-<!-- ![Texto alternativo](base0.png) -->
-<!-- ![Texto alternativo](base1.png) -->
-<!-- ![Texto alternativo](base2.png) -->
-<!-- ![Texto alternativo](base3.png) -->
+![Texto alternativo](base0.png)
+![Texto alternativo](base1.png)
+![Texto alternativo](base2.png)
+![Texto alternativo](base3.png)
 Este proyecto fue desarrollado con fines académicos e informativos. La información presentada se obtuvo a partir de los datos del Censo 2024 realizado en Chile. Su origen responde a un interés particular, pero se encuentra abierto para toda la comunidad, incluyendo tanto a entidades públicas como privadas.
 
 El panel informativo o dashboard fue construido utilizando diversas tecnologías para el procesamiento, análisis y visualización de datos, entre ellas:
@@ -31,6 +31,6 @@ El panel informativo o dashboard fue construido utilizando diversas tecnologías
 3. 👨🏻‍💻 Acceder a la aplicación desde el navegador.
 
 ## Contacto:
- ejemplo@email.com
- +56 9 7845 1289
- github.com/ekos77
+ -seguel.claudio.a@gmail.com
+ -+56 9 75310981
+ -github.com/ekos77
