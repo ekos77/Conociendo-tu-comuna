@@ -31,6 +31,6 @@ El panel informativo o dashboard fue construido utilizando diversas tecnologías
 3. 👨🏻‍💻 Acceder a la aplicación desde el navegador.
 
 ## Contacto:
- -seguel.claudio.a@gmail.com
- -+56 9 75310981
- -github.com/ekos77
+ - seguel.claudio.a@gmail.com
+ - +56 9 75310981
+ - github.com/ekos77
