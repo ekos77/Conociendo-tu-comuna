@@ -206,7 +206,8 @@ function configurarSwitchModoOscuro() {
 // 6. LATERAL DE COMPARACIONES
 // ======================
 function mostrarDatosAnalizados(comuna) {
-  fetch("app/vistas/csv/convinar.csv")
+  // fetch("app/vistas/csv/convinar.csv")
+  fetch("app/vistas/csv/combinado_11.csv")
     .then(r => r.text())
     .then(txt => {
       const datos = txt.split("\n").slice(1).map(row => {
@@ -239,7 +240,7 @@ items.forEach((d, i) => {
                    </td>` : ""}
       ${i === 0 ? `<td rowspan="${items.length}" class="text-center align-middle"><a class="link-opacity-100" href="#"    data-bs-toggle="modal" 
   data-bs-target="#modalMiTabla" 
-  data-com="Santiago" >${comuna}</a>
+  data-com="${comuna}" >${comuna}</a>
       </td>` : ""}
       <td>${d.indicador}</td>
       <td>
@@ -296,12 +297,7 @@ function configurarEventos() {
       );
       geojsonLayer.addData(filtradas);
     }
-  });
-
-  document.querySelector("#comunas-lista").addEventListener("input", function () {
-    const filtros = this.value.split(/[,;]+/).map(f => f.trim().toLowerCase()).filter(Boolean);
-    renderTabla(filtros.length ? filtros : null);
-  });
+  }); 
 
 }
 // ======================
@@ -325,22 +321,164 @@ function mostrarModalUnaVez() {
 // 10. POBLAR MODAL
 // ======================
 
-// Ejemplo JSON con datos por comuna
-const modalPorComuna = {
-  Santiago: [
-    { nombre: "Juan", edad: 30 },
-    { nombre: "Ana", edad: 25 }
-  ],
-  Providencia: [
-    { nombre: "Luis", edad: 40 },
-    { nombre: "María", edad: 35 }
-  ]
-};
+// // Función para convertir CSV a array de objetos
+// function csvToJson(csvText) {
+//   const lines = csvText.trim().split("\n");
+//   const headers = lines[0].split(";").map(h => h.trim());
+  
+//   return lines.slice(1).map(line => {
+//     const values = line.split(";").map(v => v.trim());
+//     const obj = {};
+//     headers.forEach((header, index) => {
+//       // Si es número lo convertimos, si no lo dejamos como string
+//       const num = Number(values[index]);
+//       obj[header] = isNaN(num) ? values[index] : num;
+//     });
+//     return obj;
+//   });
+// }
 
-// Función para poblar tabla en modal
+// // Función para poblar tabla en modal
+// function poblarModalConDatos(jsonData, modalBody) {
+//   if (!jsonData.length) {
+//     modalBody.innerHTML = "<div class='alert alert-warning'>No hay datos</div>";
+//     return;
+//   }
+
+//   let html = '<table class="table table-striped"><thead><tr>';
+//   const keys = Object.keys(jsonData[0]);
+//   keys.forEach(k => html += `<th>${k}</th>`);
+//   html += '</tr></thead><tbody>';
+//   jsonData.forEach(item => {
+//     html += '<tr>';
+//     keys.forEach(k => html += `<td>${item[k]}</td>`);
+//     html += '</tr>';
+//   });
+//   html += '</tbody></table>';
+//   modalBody.innerHTML = html;
+// }
+
+// // Evento al abrir modal
+// const modalEl = document.getElementById('modalMiTabla');
+// modalEl.addEventListener('show.bs.modal', event => {
+//   const button = event.relatedTarget;
+//   const comuna = button.getAttribute('data-com').trim().toLowerCase();
+//   const modalBody = modalEl.querySelector('.modal-body');
+
+//   fetch('app/vistas/csv/combinado_11.csv')
+//     .then(res => res.text())
+//     .then(csvText => {
+//       const data = csvToJson(csvText);
+//       const datosComuna = data.filter(row => row.Comuna.toLowerCase() === comuna);
+//       poblarModalConDatos(datosComuna, modalBody);
+//     })
+//     .catch(err => {
+//       modalBody.innerHTML = `<div class="alert alert-danger">Error cargando datos</div>`;
+//       console.error(err);
+//     });
+// });
+// Función para convertir CSV a array de objetos
+function csvToJson(csvText) {
+  const lines = csvText.trim().split("\n");
+  const headers = lines[0].split(";").map(h => h.trim());
+  
+  return lines.slice(1).map(line => {
+    const values = line.split(";").map(v => v.trim());
+    const obj = {};
+    headers.forEach((header, index) => {
+      const num = Number(values[index]);
+      obj[header] = isNaN(num) ? values[index] : num;
+    });
+    return obj;
+  });
+}
+
+// Renderizar cards
+function poblarCards(datos, container) {
+  const { ["Comuna"]: Comuna,  ["aep1"]: aep1, ["% nunca"]: nunca, ["% profe"]: profe, ["edad_5_14"]: edad_5_14, ["edad_15_64"]: edad_15_64, ["edad_65_mas"]: edad_65_mas } = datos;
+  document.getElementById("modalMiTablaLabel").innerHTML = Comuna +" "+ aep1 + " escolaridad promedio 18+";
+  container.innerHTML = `
+    <div class="row mb-3">
+      <div class="col-md-6">
+        <div class="card text-center">
+          <div class="card-body">
+            <h5 class="card-title">% Nunca fue a la escuela</h5>
+            <p class="display-6 text-danger">${nunca}%</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card text-center">
+          <div class="card-body">
+            <h5 class="card-title">% Profesionales</h5>
+            <p class="display-6 text-primary">${profe}%</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row mb-3">
+      <div class="col-md-4">
+        <div class="card text-center">
+          <div class="card-body">
+            <h5 class="card-title">5 a 14</h5>
+            <p class="display-6 text-danger">${edad_5_14}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card text-center">
+          <div class="card-body">
+            <h5 class="card-title">15 a 64</h5>
+            <p class="display-6 text-primary">${edad_15_64}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card text-center">
+          <div class="card-body">
+            <h5 class="card-title">65+</h5>
+            <p class="display-6 text-primary">${edad_65_mas}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+// Renderizar gráfico con Chart.js
+// function poblarGrafico(datos, canvasEl) {
+//   const labels = ["aep1", "aep2", "edad_5_14", "edad_15_64", "edad_65_mas"];
+//   const valores = labels.map(l => datos[l]);
+
+//   new Chart(canvasEl, {
+//     type: 'bar',
+//     data: {
+//       labels,
+//       datasets: [{
+//         label: 'Valores numéricos',
+//         data: valores,
+//         backgroundColor: ['#4e73df', '#1cc88a', '#36b9cc', '#f6c23e', '#e74a3b']
+//       }]
+//     },
+//     options: {
+//       responsive: true,
+//       plugins: {
+//         legend: { display: false },
+//         tooltip: { enabled: true }
+//       }
+//     }
+//   });
+// }
+
+// Renderizar tabla
 function poblarModalConDatos(jsonData, modalBody) {
+  if (!jsonData.length) {
+    modalBody.innerHTML = "<div class='alert alert-warning'>No hay datos</div>";
+    return;
+  }
+
+  const keys = Object.keys(jsonData[0]);
   let html = '<table class="table table-striped"><thead><tr>';
-  const keys = Object.keys(jsonData[0] || {});
   keys.forEach(k => html += `<th>${k}</th>`);
   html += '</tr></thead><tbody>';
   jsonData.forEach(item => {
@@ -349,16 +487,41 @@ function poblarModalConDatos(jsonData, modalBody) {
     html += '</tr>';
   });
   html += '</tbody></table>';
-  modalBody.innerHTML = html;
+
+  modalBody.innerHTML += html;
 }
 
 // Evento al abrir modal
 const modalEl = document.getElementById('modalMiTabla');
 modalEl.addEventListener('show.bs.modal', event => {
-  const button = event.relatedTarget; // botón que disparó el modal
-  const comuna = button.getAttribute('data-com');
+  const button = event.relatedTarget;
+  const comuna = button.getAttribute('data-com').trim().toLowerCase();
   const modalBody = modalEl.querySelector('.modal-body');
+  modalBody.innerHTML = `
+    <div id="cardsContainer"></div>
+  `;
 
-  const datos = modalPorComuna[comuna] || [];
-  poblarModalConDatos(datos, modalBody);
+  fetch('app/vistas/csv/combinado_11.csv')
+    .then(res => res.text())
+    .then(csvText => {
+      const data = csvToJson(csvText);
+      const datosComuna = data.find(row => row.Comuna.toLowerCase() === comuna);
+      if (!datosComuna) {
+        modalBody.innerHTML = "<div class='alert alert-warning'>No se encontró la comuna</div>";
+        return;
+      }
+
+      // Poblar cards
+      poblarCards(datosComuna, document.getElementById("cardsContainer"));
+
+      // Poblar gráfico
+      // poblarGrafico(datosComuna, document.getElementById("graficoComuna"));
+
+      // Poblar tabla
+      // poblarModalConDatos([datosComuna], modalBody);
+    })
+    .catch(err => {
+      modalBody.innerHTML = `<div class="alert alert-danger">Error cargando datos</div>`;
+      console.error(err);
+    });
 });

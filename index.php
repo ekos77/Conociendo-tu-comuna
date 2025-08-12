@@ -164,6 +164,7 @@
     </div>
   </div>
 </div>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="//cdn.datatables.net/2.3.2/js/dataTables.min.js"></script>
   <script src="<?php echo APP_URL; ?>app/vistas/js/bootstrap.bundle.min.js"></script>

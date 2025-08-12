@@ -1,0 +1,1389 @@
+﻿Código región;Región;Código provincia;Provincia;Código comuna;Comuna;Sabe leer y escribir;Población de 5 años o más;5-14 años;15-64 años;65 años o más
+0;País;0;País;0;País;Total País;17.609.739;2.403.955;12.618.546;2.587.238
+0;País;0;País;0;País;Sí;16.768.987;1.988.549;12.377.415;2.403.023
+0;País;0;País;0;País;No;725.878;395.026;166.492;164.360
+0;País;0;País;0;País;Sabe leer y escribir no declarado;114.874;20.380;74.639;19.855
+15;Arica y Parinacota;151;Arica;15101;Arica;Total Comuna;228.982;34.880;163.466;30.636
+15;Arica y Parinacota;151;Arica;15101;Arica;Sí;218.770;29.003;160.599;29.168
+15;Arica y Parinacota;151;Arica;15101;Arica;No;8.083;5.522;1.379;1.182
+15;Arica y Parinacota;151;Arica;15101;Arica;Sabe leer y escribir no declarado;2.129;355;1.488;286
+15;Arica y Parinacota;151;Arica;15102;Camarones;Total Comuna;835;80;527;228
+15;Arica y Parinacota;151;Arica;15102;Camarones;Sí;802;72;517;213
+15;Arica y Parinacota;151;Arica;15102;Camarones;No;32;8;9;15
+15;Arica y Parinacota;151;Arica;15102;Camarones;Sabe leer y escribir no declarado;1;0;1;0
+15;Arica y Parinacota;152;Parinacota;15201;Putre;Total Comuna;1.469;172;1.041;256
+15;Arica y Parinacota;152;Parinacota;15201;Putre;Sí;1.374;141;1.014;219
+15;Arica y Parinacota;152;Parinacota;15201;Putre;No;80;28;16;36
+15;Arica y Parinacota;152;Parinacota;15201;Putre;Sabe leer y escribir no declarado;15;3;11;1
+15;Arica y Parinacota;152;Parinacota;15202;General Lagos;Total Comuna;464;79;269;116
+15;Arica y Parinacota;152;Parinacota;15202;General Lagos;Sí;404;70;256;78
+15;Arica y Parinacota;152;Parinacota;15202;General Lagos;No;58;8;12;38
+15;Arica y Parinacota;152;Parinacota;15202;General Lagos;Sabe leer y escribir no declarado;2;1;1;0
+1;Tarapacá;11;Iquique;1101;Iquique;Total Comuna;189.620;27.628;137.764;24.228
+1;Tarapacá;11;Iquique;1101;Iquique;Sí;181.965;22.945;135.442;23.578
+1;Tarapacá;11;Iquique;1101;Iquique;No;5.590;4.365;787;438
+1;Tarapacá;11;Iquique;1101;Iquique;Sabe leer y escribir no declarado;2.065;318;1.535;212
+1;Tarapacá;11;Iquique;1107;Alto Hospicio;Total Comuna;131.719;25.797;98.216;7.706
+1;Tarapacá;11;Iquique;1107;Alto Hospicio;Sí;124.750;20.958;96.567;7.225
+1;Tarapacá;11;Iquique;1107;Alto Hospicio;No;6.030;4.636;994;400
+1;Tarapacá;11;Iquique;1107;Alto Hospicio;Sabe leer y escribir no declarado;939;203;655;81
+1;Tarapacá;14;Del Tamarugal;1401;Pozo Almonte;Total Comuna;15.723;2.898;11.116;1.709
+1;Tarapacá;14;Del Tamarugal;1401;Pozo Almonte;Sí;14.899;2.367;10.920;1.612
+1;Tarapacá;14;Del Tamarugal;1401;Pozo Almonte;No;716;508;119;89
+1;Tarapacá;14;Del Tamarugal;1401;Pozo Almonte;Sabe leer y escribir no declarado;108;23;77;8
+1;Tarapacá;14;Del Tamarugal;1402;Camiña;Total Comuna;1.244;244;764;236
+1;Tarapacá;14;Del Tamarugal;1402;Camiña;Sí;1.148;207;746;195
+1;Tarapacá;14;Del Tamarugal;1402;Camiña;No;93;35;18;40
+1;Tarapacá;14;Del Tamarugal;1402;Camiña;Sabe leer y escribir no declarado;3;2;0;1
+1;Tarapacá;14;Del Tamarugal;1403;Colchane;Total Comuna;720;124;463;133
+1;Tarapacá;14;Del Tamarugal;1403;Colchane;Sí;626;106;438;82
+1;Tarapacá;14;Del Tamarugal;1403;Colchane;No;90;18;22;50
+1;Tarapacá;14;Del Tamarugal;1403;Colchane;Sabe leer y escribir no declarado;4;0;3;1
+1;Tarapacá;14;Del Tamarugal;1404;Huara;Total Comuna;2.619;459;1.719;441
+1;Tarapacá;14;Del Tamarugal;1404;Huara;Sí;2.429;373;1.662;394
+1;Tarapacá;14;Del Tamarugal;1404;Huara;No;169;80;43;46
+1;Tarapacá;14;Del Tamarugal;1404;Huara;Sabe leer y escribir no declarado;21;6;14;1
+1;Tarapacá;14;Del Tamarugal;1405;Pica;Total Comuna;5.829;1.050;3.904;875
+1;Tarapacá;14;Del Tamarugal;1405;Pica;Sí;5.586;894;3.854;838
+1;Tarapacá;14;Del Tamarugal;1405;Pica;No;224;149;38;37
+1;Tarapacá;14;Del Tamarugal;1405;Pica;Sabe leer y escribir no declarado;19;7;12;0
+2;Antofagasta;21;Antofagasta;2101;Antofagasta;Total Comuna;380.622;55.336;286.227;39.059
+2;Antofagasta;21;Antofagasta;2101;Antofagasta;Sí;365.838;45.929;282.027;37.882
+2;Antofagasta;21;Antofagasta;2101;Antofagasta;No;11.804;8.894;2.030;880
+2;Antofagasta;21;Antofagasta;2101;Antofagasta;Sabe leer y escribir no declarado;2.980;513;2.170;297
+2;Antofagasta;21;Antofagasta;2102;Mejillones;Total Comuna;13.183;2.445;9.625;1.113
+2;Antofagasta;21;Antofagasta;2102;Mejillones;Sí;12.589;2.012;9.503;1.074
+2;Antofagasta;21;Antofagasta;2102;Mejillones;No;534;419;78;37
+2;Antofagasta;21;Antofagasta;2102;Mejillones;Sabe leer y escribir no declarado;60;14;44;2
+2;Antofagasta;21;Antofagasta;2103;Sierra Gorda;Total Comuna;1.373;266;1.005;102
+2;Antofagasta;21;Antofagasta;2103;Sierra Gorda;Sí;1.286;211;980;95
+2;Antofagasta;21;Antofagasta;2103;Sierra Gorda;No;71;49;15;7
+2;Antofagasta;21;Antofagasta;2103;Sierra Gorda;Sabe leer y escribir no declarado;16;6;10;0
+2;Antofagasta;21;Antofagasta;2104;Taltal;Total Comuna;11.485;1.791;8.122;1.572
+2;Antofagasta;21;Antofagasta;2104;Taltal;Sí;10.955;1.495;7.988;1.472
+2;Antofagasta;21;Antofagasta;2104;Taltal;No;463;278;91;94
+2;Antofagasta;21;Antofagasta;2104;Taltal;Sabe leer y escribir no declarado;67;18;43;6
+2;Antofagasta;22;El Loa;2201;Calama;Total Comuna;157.091;25.547;116.500;15.044
+2;Antofagasta;22;El Loa;2201;Calama;Sí;150.366;21.408;114.619;14.339
+2;Antofagasta;22;El Loa;2201;Calama;No;5.199;3.822;800;577
+2;Antofagasta;22;El Loa;2201;Calama;Sabe leer y escribir no declarado;1.526;317;1.081;128
+2;Antofagasta;22;El Loa;2202;Ollagüe;Total Comuna;250;42;173;35
+2;Antofagasta;22;El Loa;2202;Ollagüe;Sí;236;36;173;27
+2;Antofagasta;22;El Loa;2202;Ollagüe;No;10;2;0;8
+2;Antofagasta;22;El Loa;2202;Ollagüe;Sabe leer y escribir no declarado;4;4;0;0
+2;Antofagasta;22;El Loa;2203;San Pedro de Atacama;Total Comuna;9.205;1.420;6.946;839
+2;Antofagasta;22;El Loa;2203;San Pedro de Atacama;Sí;8.726;1.163;6.808;755
+2;Antofagasta;22;El Loa;2203;San Pedro de Atacama;No;384;237;66;81
+2;Antofagasta;22;El Loa;2203;San Pedro de Atacama;Sabe leer y escribir no declarado;95;20;72;3
+2;Antofagasta;23;Tocopilla;2301;Tocopilla;Total Comuna;24.118;3.900;16.863;3.355
+2;Antofagasta;23;Tocopilla;2301;Tocopilla;Sí;23.091;3.217;16.624;3.250
+2;Antofagasta;23;Tocopilla;2301;Tocopilla;No;933;660;175;98
+2;Antofagasta;23;Tocopilla;2301;Tocopilla;Sabe leer y escribir no declarado;94;23;64;7
+2;Antofagasta;23;Tocopilla;2302;María Elena;Total Comuna;4.580;696;3.434;450
+2;Antofagasta;23;Tocopilla;2302;María Elena;Sí;4.411;571;3.398;442
+2;Antofagasta;23;Tocopilla;2302;María Elena;No;153;120;26;7
+2;Antofagasta;23;Tocopilla;2302;María Elena;Sabe leer y escribir no declarado;16;5;10;1
+3;Atacama;31;Copiapó;3101;Copiapó;Total Comuna;160.213;24.923;116.609;18.681
+3;Atacama;31;Copiapó;3101;Copiapó;Sí;153.134;20.565;114.748;17.821
+3;Atacama;31;Copiapó;3101;Copiapó;No;5.952;4.140;1.048;764
+3;Atacama;31;Copiapó;3101;Copiapó;Sabe leer y escribir no declarado;1.127;218;813;96
+3;Atacama;31;Copiapó;3102;Caldera;Total Comuna;17.869;2.684;12.477;2.708
+3;Atacama;31;Copiapó;3102;Caldera;Sí;16.958;2.144;12.210;2.604
+3;Atacama;31;Copiapó;3102;Caldera;No;762;499;170;93
+3;Atacama;31;Copiapó;3102;Caldera;Sabe leer y escribir no declarado;149;41;97;11
+3;Atacama;31;Copiapó;3103;Tierra Amarilla;Total Comuna;11.191;1.801;8.036;1.354
+3;Atacama;31;Copiapó;3103;Tierra Amarilla;Sí;10.580;1.458;7.900;1.222
+3;Atacama;31;Copiapó;3103;Tierra Amarilla;No;576;330;116;130
+3;Atacama;31;Copiapó;3103;Tierra Amarilla;Sabe leer y escribir no declarado;35;13;20;2
+3;Atacama;32;Chañaral;3201;Chañaral;Total Comuna;11.731;1.892;7.995;1.844
+3;Atacama;32;Chañaral;3201;Chañaral;Sí;11.141;1.531;7.868;1.742
+3;Atacama;32;Chañaral;3201;Chañaral;No;524;350;80;94
+3;Atacama;32;Chañaral;3201;Chañaral;Sabe leer y escribir no declarado;66;11;47;8
+3;Atacama;32;Chañaral;3202;Diego de Almagro;Total Comuna;10.843;1.858;7.813;1.172
+3;Atacama;32;Chañaral;3202;Diego de Almagro;Sí;10.359;1.565;7.699;1.095
+3;Atacama;32;Chañaral;3202;Diego de Almagro;No;407;278;63;66
+3;Atacama;32;Chañaral;3202;Diego de Almagro;Sabe leer y escribir no declarado;77;15;51;11
+3;Atacama;33;Huasco;3301;Vallenar;Total Comuna;51.688;8.007;35.631;8.050
+3;Atacama;33;Huasco;3301;Vallenar;Sí;48.937;6.631;34.886;7.420
+3;Atacama;33;Huasco;3301;Vallenar;No;2.388;1.297;501;590
+3;Atacama;33;Huasco;3301;Vallenar;Sabe leer y escribir no declarado;363;79;244;40
+3;Atacama;33;Huasco;3302;Alto del Carmen;Total Comuna;4.616;616;2.976;1.024
+3;Atacama;33;Huasco;3302;Alto del Carmen;Sí;4.242;515;2.879;848
+3;Atacama;33;Huasco;3302;Alto del Carmen;No;355;94;88;173
+3;Atacama;33;Huasco;3302;Alto del Carmen;Sabe leer y escribir no declarado;19;7;9;3
+3;Atacama;33;Huasco;3303;Freirina;Total Comuna;7.231;1.143;4.905;1.183
+3;Atacama;33;Huasco;3303;Freirina;Sí;6.783;951;4.788;1.044
+3;Atacama;33;Huasco;3303;Freirina;No;417;185;96;136
+3;Atacama;33;Huasco;3303;Freirina;Sabe leer y escribir no declarado;31;7;21;3
+3;Atacama;33;Huasco;3304;Huasco;Total Comuna;8.950;1.331;5.987;1.632
+3;Atacama;33;Huasco;3304;Huasco;Sí;8.450;1.092;5.839;1.519
+3;Atacama;33;Huasco;3304;Huasco;No;415;224;91;100
+3;Atacama;33;Huasco;3304;Huasco;Sabe leer y escribir no declarado;85;15;57;13
+4;Coquimbo;41;Elqui;4101;La Serena;Total Comuna;239.027;34.291;171.669;33.067
+4;Coquimbo;41;Elqui;4101;La Serena;Sí;229.458;28.615;169.102;31.741
+4;Coquimbo;41;Elqui;4101;La Serena;No;7.887;5.362;1.364;1.161
+4;Coquimbo;41;Elqui;4101;La Serena;Sabe leer y escribir no declarado;1.682;314;1.203;165
+4;Coquimbo;41;Elqui;4102;Coquimbo;Total Comuna;251.160;38.311;178.399;34.450
+4;Coquimbo;41;Elqui;4102;Coquimbo;Sí;240.420;31.822;175.718;32.880
+4;Coquimbo;41;Elqui;4102;Coquimbo;No;9.304;6.192;1.694;1.418
+4;Coquimbo;41;Elqui;4102;Coquimbo;Sabe leer y escribir no declarado;1.436;297;987;152
+4;Coquimbo;41;Elqui;4103;Andacollo;Total Comuna;11.091;1.628;7.510;1.953
+4;Coquimbo;41;Elqui;4103;Andacollo;Sí;10.557;1.388;7.388;1.781
+4;Coquimbo;41;Elqui;4103;Andacollo;No;519;236;112;171
+4;Coquimbo;41;Elqui;4103;Andacollo;Sabe leer y escribir no declarado;15;4;10;1
+4;Coquimbo;41;Elqui;4104;La Higuera;Total Comuna;4.131;577;2.771;783
+4;Coquimbo;41;Elqui;4104;La Higuera;Sí;3.777;469;2.650;658
+4;Coquimbo;41;Elqui;4104;La Higuera;No;325;95;106;124
+4;Coquimbo;41;Elqui;4104;La Higuera;Sabe leer y escribir no declarado;29;13;15;1
+4;Coquimbo;41;Elqui;4105;Paiguano;Total Comuna;4.453;569;3.074;810
+4;Coquimbo;41;Elqui;4105;Paiguano;Sí;4.258;482;3.021;755
+4;Coquimbo;41;Elqui;4105;Paiguano;No;173;82;38;53
+4;Coquimbo;41;Elqui;4105;Paiguano;Sabe leer y escribir no declarado;22;5;15;2
+4;Coquimbo;41;Elqui;4106;Vicuña;Total Comuna;26.778;3.883;18.511;4.384
+4;Coquimbo;41;Elqui;4106;Vicuña;Sí;25.470;3.322;18.140;4.008
+4;Coquimbo;41;Elqui;4106;Vicuña;No;1.153;532;268;353
+4;Coquimbo;41;Elqui;4106;Vicuña;Sabe leer y escribir no declarado;155;29;103;23
+4;Coquimbo;42;Choapa;4201;Illapel;Total Comuna;30.564;4.343;20.764;5.457
+4;Coquimbo;42;Choapa;4201;Illapel;Sí;28.850;3.568;20.341;4.941
+4;Coquimbo;42;Choapa;4201;Illapel;No;1.616;755;357;504
+4;Coquimbo;42;Choapa;4201;Illapel;Sabe leer y escribir no declarado;98;20;66;12
+4;Coquimbo;42;Choapa;4202;Canela;Total Comuna;9.264;1.080;5.925;2.259
+4;Coquimbo;42;Choapa;4202;Canela;Sí;8.523;901;5.741;1.881
+4;Coquimbo;42;Choapa;4202;Canela;No;720;173;170;377
+4;Coquimbo;42;Choapa;4202;Canela;Sabe leer y escribir no declarado;21;6;14;1
+4;Coquimbo;42;Choapa;4203;Los Vilos;Total Comuna;21.657;3.178;14.795;3.684
+4;Coquimbo;42;Choapa;4203;Los Vilos;Sí;20.421;2.614;14.493;3.314
+4;Coquimbo;42;Choapa;4203;Los Vilos;No;1.163;547;252;364
+4;Coquimbo;42;Choapa;4203;Los Vilos;Sabe leer y escribir no declarado;73;17;50;6
+4;Coquimbo;42;Choapa;4204;Salamanca;Total Comuna;26.577;3.881;18.256;4.440
+4;Coquimbo;42;Choapa;4204;Salamanca;Sí;25.045;3.212;17.867;3.966
+4;Coquimbo;42;Choapa;4204;Salamanca;No;1.436;646;326;464
+4;Coquimbo;42;Choapa;4204;Salamanca;Sabe leer y escribir no declarado;96;23;63;10
+4;Coquimbo;43;Limarí;4301;Ovalle;Total Comuna;113.290;16.889;79.044;17.357
+4;Coquimbo;43;Limarí;4301;Ovalle;Sí;107.321;13.983;77.401;15.937
+4;Coquimbo;43;Limarí;4301;Ovalle;No;5.099;2.709;1.059;1.331
+4;Coquimbo;43;Limarí;4301;Ovalle;Sabe leer y escribir no declarado;870;197;584;89
+4;Coquimbo;43;Limarí;4302;Combarbalá;Total Comuna;12.503;1.516;8.069;2.918
+4;Coquimbo;43;Limarí;4302;Combarbalá;Sí;11.576;1.199;7.823;2.554
+4;Coquimbo;43;Limarí;4302;Combarbalá;No;886;308;218;360
+4;Coquimbo;43;Limarí;4302;Combarbalá;Sabe leer y escribir no declarado;41;9;28;4
+4;Coquimbo;43;Limarí;4303;Monte Patria;Total Comuna;28.629;4.082;19.506;5.041
+4;Coquimbo;43;Limarí;4303;Monte Patria;Sí;26.804;3.453;19.034;4.317
+4;Coquimbo;43;Limarí;4303;Monte Patria;No;1.782;614;453;715
+4;Coquimbo;43;Limarí;4303;Monte Patria;Sabe leer y escribir no declarado;43;15;19;9
+4;Coquimbo;43;Limarí;4304;Punitaqui;Total Comuna;11.521;1.715;7.677;2.129
+4;Coquimbo;43;Limarí;4304;Punitaqui;Sí;10.774;1.431;7.489;1.854
+4;Coquimbo;43;Limarí;4304;Punitaqui;No;720;272;175;273
+4;Coquimbo;43;Limarí;4304;Punitaqui;Sabe leer y escribir no declarado;27;12;13;2
+4;Coquimbo;43;Limarí;4305;Río Hurtado;Total Comuna;4.190;457;2.689;1.044
+4;Coquimbo;43;Limarí;4305;Río Hurtado;Sí;3.882;379;2.613;890
+4;Coquimbo;43;Limarí;4305;Río Hurtado;No;307;77;76;154
+4;Coquimbo;43;Limarí;4305;Río Hurtado;Sabe leer y escribir no declarado;1;1;0;0
+5;Valparaíso;51;Valparaíso;5101;Valparaíso;Total Comuna;273.775;33.114;194.123;46.538
+5;Valparaíso;51;Valparaíso;5101;Valparaíso;Sí;262.484;27.255;190.489;44.740
+5;Valparaíso;51;Valparaíso;5101;Valparaíso;No;8.800;5.508;1.898;1.394
+5;Valparaíso;51;Valparaíso;5101;Valparaíso;Sabe leer y escribir no declarado;2.491;351;1.736;404
+5;Valparaíso;51;Valparaíso;5102;Casablanca;Total Comuna;28.395;3.918;20.065;4.412
+5;Valparaíso;51;Valparaíso;5102;Casablanca;Sí;26.883;3.268;19.575;4.040
+5;Valparaíso;51;Valparaíso;5102;Casablanca;No;1.247;614;300;333
+5;Valparaíso;51;Valparaíso;5102;Casablanca;Sabe leer y escribir no declarado;265;36;190;39
+5;Valparaíso;51;Valparaíso;5103;Concón;Total Comuna;46.178;5.737;33.071;7.370
+5;Valparaíso;51;Valparaíso;5103;Concón;Sí;44.486;4.792;32.547;7.147
+5;Valparaíso;51;Valparaíso;5103;Concón;No;1.231;862;197;172
+5;Valparaíso;51;Valparaíso;5103;Concón;Sabe leer y escribir no declarado;461;83;327;51
+5;Valparaíso;51;Valparaíso;5104;Juan Fernández;Total Comuna;845;130;589;126
+5;Valparaíso;51;Valparaíso;5104;Juan Fernández;Sí;810;110;578;122
+5;Valparaíso;51;Valparaíso;5104;Juan Fernández;No;23;18;3;2
+5;Valparaíso;51;Valparaíso;5104;Juan Fernández;Sabe leer y escribir no declarado;12;2;8;2
+5;Valparaíso;51;Valparaíso;5105;Puchuncaví;Total Comuna;21.489;2.893;14.518;4.078
+5;Valparaíso;51;Valparaíso;5105;Puchuncaví;Sí;20.445;2.378;14.214;3.853
+5;Valparaíso;51;Valparaíso;5105;Puchuncaví;No;841;476;196;169
+5;Valparaíso;51;Valparaíso;5105;Puchuncaví;Sabe leer y escribir no declarado;203;39;108;56
+5;Valparaíso;51;Valparaíso;5107;Quintero;Total Comuna;33.996;4.914;23.259;5.823
+5;Valparaíso;51;Valparaíso;5107;Quintero;Sí;32.318;4.022;22.761;5.535
+5;Valparaíso;51;Valparaíso;5107;Quintero;No;1.351;829;290;232
+5;Valparaíso;51;Valparaíso;5107;Quintero;Sabe leer y escribir no declarado;327;63;208;56
+5;Valparaíso;51;Valparaíso;5109;Viña del Mar;Total Comuna;321.899;36.182;226.330;59.387
+5;Valparaíso;51;Valparaíso;5109;Viña del Mar;Sí;310.350;29.928;223.083;57.339
+5;Valparaíso;51;Valparaíso;5109;Viña del Mar;No;9.049;5.916;1.801;1.332
+5;Valparaíso;51;Valparaíso;5109;Viña del Mar;Sabe leer y escribir no declarado;2.500;338;1.446;716
+5;Valparaíso;52;Isla de Pascua;5201;Isla de Pascua;Total Comuna;4.466;699;3.362;405
+5;Valparaíso;52;Isla de Pascua;5201;Isla de Pascua;Sí;4.113;543;3.188;382
+5;Valparaíso;52;Isla de Pascua;5201;Isla de Pascua;No;142;110;20;12
+5;Valparaíso;52;Isla de Pascua;5201;Isla de Pascua;Sabe leer y escribir no declarado;211;46;154;11
+5;Valparaíso;53;Los Andes;5301;Los Andes;Total Comuna;60.552;8.722;42.069;9.761
+5;Valparaíso;53;Los Andes;5301;Los Andes;Sí;58.091;7.308;41.445;9.338
+5;Valparaíso;53;Los Andes;5301;Los Andes;No;2.107;1.349;395;363
+5;Valparaíso;53;Los Andes;5301;Los Andes;Sabe leer y escribir no declarado;354;65;229;60
+5;Valparaíso;53;Los Andes;5302;Calle Larga;Total Comuna;15.791;2.586;11.010;2.195
+5;Valparaíso;53;Los Andes;5302;Calle Larga;Sí;14.930;2.101;10.823;2.006
+5;Valparaíso;53;Los Andes;5302;Calle Larga;No;796;469;148;179
+5;Valparaíso;53;Los Andes;5302;Calle Larga;Sabe leer y escribir no declarado;65;16;39;10
+5;Valparaíso;53;Los Andes;5303;Rinconada;Total Comuna;11.212;1.856;7.782;1.574
+5;Valparaíso;53;Los Andes;5303;Rinconada;Sí;10.582;1.525;7.640;1.417
+5;Valparaíso;53;Los Andes;5303;Rinconada;No;592;321;117;154
+5;Valparaíso;53;Los Andes;5303;Rinconada;Sabe leer y escribir no declarado;38;10;25;3
+5;Valparaíso;53;Los Andes;5304;San Esteban;Total Comuna;19.144;2.858;13.402;2.884
+5;Valparaíso;53;Los Andes;5304;San Esteban;Sí;18.190;2.380;13.183;2.627
+5;Valparaíso;53;Los Andes;5304;San Esteban;No;892;462;181;249
+5;Valparaíso;53;Los Andes;5304;San Esteban;Sabe leer y escribir no declarado;62;16;38;8
+5;Valparaíso;54;Petorca;5401;La Ligua;Total Comuna;37.426;4.964;25.896;6.566
+5;Valparaíso;54;Petorca;5401;La Ligua;Sí;35.502;4.054;25.442;6.006
+5;Valparaíso;54;Petorca;5401;La Ligua;No;1.791;883;364;544
+5;Valparaíso;54;Petorca;5401;La Ligua;Sabe leer y escribir no declarado;133;27;90;16
+5;Valparaíso;54;Petorca;5402;Cabildo;Total Comuna;19.050;2.664;13.186;3.200
+5;Valparaíso;54;Petorca;5402;Cabildo;Sí;17.872;2.167;12.922;2.783
+5;Valparaíso;54;Petorca;5402;Cabildo;No;1.135;490;243;402
+5;Valparaíso;54;Petorca;5402;Cabildo;Sabe leer y escribir no declarado;43;7;21;15
+5;Valparaíso;54;Petorca;5403;Papudo;Total Comuna;7.213;986;4.903;1.324
+5;Valparaíso;54;Petorca;5403;Papudo;Sí;6.888;797;4.828;1.263
+5;Valparaíso;54;Petorca;5403;Papudo;No;303;179;63;61
+5;Valparaíso;54;Petorca;5403;Papudo;Sabe leer y escribir no declarado;22;10;12;0
+5;Valparaíso;54;Petorca;5404;Petorca;Total Comuna;9.753;1.203;6.704;1.846
+5;Valparaíso;54;Petorca;5404;Petorca;Sí;9.146;1.006;6.545;1.595
+5;Valparaíso;54;Petorca;5404;Petorca;No;586;190;147;249
+5;Valparaíso;54;Petorca;5404;Petorca;Sabe leer y escribir no declarado;21;7;12;2
+5;Valparaíso;54;Petorca;5405;Zapallar;Total Comuna;7.546;1.067;5.006;1.473
+5;Valparaíso;54;Petorca;5405;Zapallar;Sí;7.233;896;4.931;1.406
+5;Valparaíso;54;Petorca;5405;Zapallar;No;267;155;50;62
+5;Valparaíso;54;Petorca;5405;Zapallar;Sabe leer y escribir no declarado;46;16;25;5
+5;Valparaíso;55;Quillota;5501;Quillota;Total Comuna;92.343;12.680;64.270;15.393
+5;Valparaíso;55;Quillota;5501;Quillota;Sí;88.002;10.444;63.139;14.419
+5;Valparaíso;55;Quillota;5501;Quillota;No;3.608;2.114;735;759
+5;Valparaíso;55;Quillota;5501;Quillota;Sabe leer y escribir no declarado;733;122;396;215
+5;Valparaíso;55;Quillota;5502;Calera;Total Comuna;48.267;6.705;33.436;8.126
+5;Valparaíso;55;Quillota;5502;Calera;Sí;45.790;5.437;32.738;7.615
+5;Valparaíso;55;Quillota;5502;Calera;No;2.123;1.209;448;466
+5;Valparaíso;55;Quillota;5502;Calera;Sabe leer y escribir no declarado;354;59;250;45
+5;Valparaíso;55;Quillota;5503;Hijuelas;Total Comuna;18.268;2.570;12.948;2.750
+5;Valparaíso;55;Quillota;5503;Hijuelas;Sí;17.142;2.074;12.631;2.437
+5;Valparaíso;55;Quillota;5503;Hijuelas;No;1.075;485;280;310
+5;Valparaíso;55;Quillota;5503;Hijuelas;Sabe leer y escribir no declarado;51;11;37;3
+5;Valparaíso;55;Quillota;5504;La Cruz;Total Comuna;23.684;3.781;16.847;3.056
+5;Valparaíso;55;Quillota;5504;La Cruz;Sí;22.720;3.132;16.690;2.898
+5;Valparaíso;55;Quillota;5504;La Cruz;No;871;607;114;150
+5;Valparaíso;55;Quillota;5504;La Cruz;Sabe leer y escribir no declarado;93;42;43;8
+5;Valparaíso;55;Quillota;5506;Nogales;Total Comuna;21.163;2.870;14.552;3.741
+5;Valparaíso;55;Quillota;5506;Nogales;Sí;19.846;2.302;14.183;3.361
+5;Valparaíso;55;Quillota;5506;Nogales;No;1.153;534;278;341
+5;Valparaíso;55;Quillota;5506;Nogales;Sabe leer y escribir no declarado;164;34;91;39
+5;Valparaíso;56;San Antonio;5601;San Antonio;Total Comuna;92.245;13.302;64.360;14.583
+5;Valparaíso;56;San Antonio;5601;San Antonio;Sí;87.785;10.903;63.085;13.797
+5;Valparaíso;56;San Antonio;5601;San Antonio;No;3.885;2.258;890;737
+5;Valparaíso;56;San Antonio;5601;San Antonio;Sabe leer y escribir no declarado;575;141;385;49
+5;Valparaíso;56;San Antonio;5602;Algarrobo;Total Comuna;15.420;1.760;9.648;4.012
+5;Valparaíso;56;San Antonio;5602;Algarrobo;Sí;14.686;1.396;9.434;3.856
+5;Valparaíso;56;San Antonio;5602;Algarrobo;No;549;335;93;121
+5;Valparaíso;56;San Antonio;5602;Algarrobo;Sabe leer y escribir no declarado;185;29;121;35
+5;Valparaíso;56;San Antonio;5603;Cartagena;Total Comuna;23.507;3.226;15.223;5.058
+5;Valparaíso;56;San Antonio;5603;Cartagena;Sí;22.225;2.574;14.850;4.801
+5;Valparaíso;56;San Antonio;5603;Cartagena;No;1.098;610;255;233
+5;Valparaíso;56;San Antonio;5603;Cartagena;Sabe leer y escribir no declarado;184;42;118;24
+5;Valparaíso;56;San Antonio;5604;El Quisco;Total Comuna;18.196;2.150;11.281;4.765
+5;Valparaíso;56;San Antonio;5604;El Quisco;Sí;17.424;1.734;11.045;4.645
+5;Valparaíso;56;San Antonio;5604;El Quisco;No;585;378;109;98
+5;Valparaíso;56;San Antonio;5604;El Quisco;Sabe leer y escribir no declarado;187;38;127;22
+5;Valparaíso;56;San Antonio;5605;El Tabo;Total Comuna;15.614;1.760;9.571;4.283
+5;Valparaíso;56;San Antonio;5605;El Tabo;Sí;14.960;1.426;9.375;4.159
+5;Valparaíso;56;San Antonio;5605;El Tabo;No;532;308;120;104
+5;Valparaíso;56;San Antonio;5605;El Tabo;Sabe leer y escribir no declarado;122;26;76;20
+5;Valparaíso;56;San Antonio;5606;Santo Domingo;Total Comuna;12.536;1.747;8.315;2.474
+5;Valparaíso;56;San Antonio;5606;Santo Domingo;Sí;11.921;1.426;8.176;2.319
+5;Valparaíso;56;San Antonio;5606;Santo Domingo;No;505;305;84;116
+5;Valparaíso;56;San Antonio;5606;Santo Domingo;Sabe leer y escribir no declarado;110;16;55;39
+5;Valparaíso;57;San Felipe de Aconcagua;5701;San Felipe;Total Comuna;76.396;10.967;54.221;11.208
+5;Valparaíso;57;San Felipe de Aconcagua;5701;San Felipe;Sí;72.740;9.038;53.170;10.532
+5;Valparaíso;57;San Felipe de Aconcagua;5701;San Felipe;No;3.217;1.855;733;629
+5;Valparaíso;57;San Felipe de Aconcagua;5701;San Felipe;Sabe leer y escribir no declarado;439;74;318;47
+5;Valparaíso;57;San Felipe de Aconcagua;5702;Catemu;Total Comuna;13.144;1.829;9.023;2.292
+5;Valparaíso;57;San Felipe de Aconcagua;5702;Catemu;Sí;12.363;1.502;8.813;2.048
+5;Valparaíso;57;San Felipe de Aconcagua;5702;Catemu;No;731;310;179;242
+5;Valparaíso;57;San Felipe de Aconcagua;5702;Catemu;Sabe leer y escribir no declarado;50;17;31;2
+5;Valparaíso;57;San Felipe de Aconcagua;5703;Llaillay;Total Comuna;24.188;3.686;16.630;3.872
+5;Valparaíso;57;San Felipe de Aconcagua;5703;Llaillay;Sí;22.765;2.993;16.246;3.526
+5;Valparaíso;57;San Felipe de Aconcagua;5703;Llaillay;No;1.342;674;328;340
+5;Valparaíso;57;San Felipe de Aconcagua;5703;Llaillay;Sabe leer y escribir no declarado;81;19;56;6
+5;Valparaíso;57;San Felipe de Aconcagua;5704;Panquehue;Total Comuna;6.941;985;4.855;1.101
+5;Valparaíso;57;San Felipe de Aconcagua;5704;Panquehue;Sí;6.561;829;4.728;1.004
+5;Valparaíso;57;San Felipe de Aconcagua;5704;Panquehue;No;343;149;99;95
+5;Valparaíso;57;San Felipe de Aconcagua;5704;Panquehue;Sabe leer y escribir no declarado;37;7;28;2
+5;Valparaíso;57;San Felipe de Aconcagua;5705;Putaendo;Total Comuna;16.592;2.308;11.232;3.052
+5;Valparaíso;57;San Felipe de Aconcagua;5705;Putaendo;Sí;15.651;1.914;10.982;2.755
+5;Valparaíso;57;San Felipe de Aconcagua;5705;Putaendo;No;864;385;201;278
+5;Valparaíso;57;San Felipe de Aconcagua;5705;Putaendo;Sabe leer y escribir no declarado;77;9;49;19
+5;Valparaíso;57;San Felipe de Aconcagua;5706;Santa María;Total Comuna;14.497;2.076;9.955;2.466
+5;Valparaíso;57;San Felipe de Aconcagua;5706;Santa María;Sí;13.742;1.722;9.756;2.264
+5;Valparaíso;57;San Felipe de Aconcagua;5706;Santa María;No;714;345;172;197
+5;Valparaíso;57;San Felipe de Aconcagua;5706;Santa María;Sabe leer y escribir no declarado;41;9;27;5
+5;Valparaíso;58;Marga Marga;5801;Quilpué;Total Comuna;156.236;19.134;108.387;28.715
+5;Valparaíso;58;Marga Marga;5801;Quilpué;Sí;150.286;15.715;106.787;27.784
+5;Valparaíso;58;Marga Marga;5801;Quilpué;No;4.606;3.243;786;577
+5;Valparaíso;58;Marga Marga;5801;Quilpué;Sabe leer y escribir no declarado;1.344;176;814;354
+5;Valparaíso;58;Marga Marga;5802;Limache;Total Comuna;53.430;7.586;36.999;8.845
+5;Valparaíso;58;Marga Marga;5802;Limache;Sí;50.879;6.175;36.285;8.419
+5;Valparaíso;58;Marga Marga;5802;Limache;No;2.055;1.307;415;333
+5;Valparaíso;58;Marga Marga;5802;Limache;Sabe leer y escribir no declarado;496;104;299;93
+5;Valparaíso;58;Marga Marga;5803;Olmué;Total Comuna;18.870;2.430;12.602;3.838
+5;Valparaíso;58;Marga Marga;5803;Olmué;Sí;17.784;1.918;12.242;3.624
+5;Valparaíso;58;Marga Marga;5803;Olmué;No;959;493;265;201
+5;Valparaíso;58;Marga Marga;5803;Olmué;Sabe leer y escribir no declarado;127;19;95;13
+5;Valparaíso;58;Marga Marga;5804;Villa Alemana;Total Comuna;133.518;18.416;93.351;21.751
+5;Valparaíso;58;Marga Marga;5804;Villa Alemana;Sí;128.680;15.367;92.277;21.036
+5;Valparaíso;58;Marga Marga;5804;Villa Alemana;No;4.068;2.922;665;481
+5;Valparaíso;58;Marga Marga;5804;Villa Alemana;Sabe leer y escribir no declarado;770;127;409;234
+13;Metropolitana de Santiago;131;Santiago;13101;Santiago;Total Comuna;420.967;37.813;347.717;35.437
+13;Metropolitana de Santiago;131;Santiago;13101;Santiago;Sí;409.602;31.447;343.598;34.557
+13;Metropolitana de Santiago;131;Santiago;13101;Santiago;No;7.915;6.011;1.402;502
+13;Metropolitana de Santiago;131;Santiago;13101;Santiago;Sabe leer y escribir no declarado;3.450;355;2.717;378
+13;Metropolitana de Santiago;131;Santiago;13102;Cerrillos;Total Comuna;80.607;11.428;58.120;11.059
+13;Metropolitana de Santiago;131;Santiago;13102;Cerrillos;Sí;76.415;9.249;56.619;10.547
+13;Metropolitana de Santiago;131;Santiago;13102;Cerrillos;No;3.280;1.926;899;455
+13;Metropolitana de Santiago;131;Santiago;13102;Cerrillos;Sabe leer y escribir no declarado;912;253;602;57
+13;Metropolitana de Santiago;131;Santiago;13103;Cerro Navia;Total Comuna;120.903;16.019;86.151;18.733
+13;Metropolitana de Santiago;131;Santiago;13103;Cerro Navia;Sí;114.367;13.204;83.888;17.275
+13;Metropolitana de Santiago;131;Santiago;13103;Cerro Navia;No;5.369;2.636;1.393;1.340
+13;Metropolitana de Santiago;131;Santiago;13103;Cerro Navia;Sabe leer y escribir no declarado;1.167;179;870;118
+13;Metropolitana de Santiago;131;Santiago;13104;Conchalí;Total Comuna;116.283;14.804;82.231;19.248
+13;Metropolitana de Santiago;131;Santiago;13104;Conchalí;Sí;111.431;12.272;80.808;18.351
+13;Metropolitana de Santiago;131;Santiago;13104;Conchalí;No;4.211;2.415;966;830
+13;Metropolitana de Santiago;131;Santiago;13104;Conchalí;Sabe leer y escribir no declarado;641;117;457;67
+13;Metropolitana de Santiago;131;Santiago;13105;El Bosque;Total Comuna;148.000;20.252;103.712;24.036
+13;Metropolitana de Santiago;131;Santiago;13105;El Bosque;Sí;140.550;16.535;101.512;22.503
+13;Metropolitana de Santiago;131;Santiago;13105;El Bosque;No;6.457;3.514;1.570;1.373
+13;Metropolitana de Santiago;131;Santiago;13105;El Bosque;Sabe leer y escribir no declarado;993;203;630;160
+13;Metropolitana de Santiago;131;Santiago;13106;Estación Central;Total Comuna;171.034;21.160;130.583;19.291
+13;Metropolitana de Santiago;131;Santiago;13106;Estación Central;Sí;164.040;17.351;128.225;18.464
+13;Metropolitana de Santiago;131;Santiago;13106;Estación Central;No;5.104;3.539;899;666
+13;Metropolitana de Santiago;131;Santiago;13106;Estación Central;Sabe leer y escribir no declarado;1.890;270;1.459;161
+13;Metropolitana de Santiago;131;Santiago;13107;Huechuraba;Total Comuna;97.043;14.694;70.891;11.458
+13;Metropolitana de Santiago;131;Santiago;13107;Huechuraba;Sí;92.865;12.327;69.774;10.764
+13;Metropolitana de Santiago;131;Santiago;13107;Huechuraba;No;3.504;2.214;662;628
+13;Metropolitana de Santiago;131;Santiago;13107;Huechuraba;Sabe leer y escribir no declarado;674;153;455;66
+13;Metropolitana de Santiago;131;Santiago;13108;Independencia;Total Comuna;110.816;14.348;83.629;12.839
+13;Metropolitana de Santiago;131;Santiago;13108;Independencia;Sí;106.897;11.774;82.842;12.281
+13;Metropolitana de Santiago;131;Santiago;13108;Independencia;No;3.093;2.455;367;271
+13;Metropolitana de Santiago;131;Santiago;13108;Independencia;Sabe leer y escribir no declarado;826;119;420;287
+13;Metropolitana de Santiago;131;Santiago;13109;La Cisterna;Total Comuna;98.397;12.377;71.244;14.776
+13;Metropolitana de Santiago;131;Santiago;13109;La Cisterna;Sí;94.483;10.269;70.244;13.970
+13;Metropolitana de Santiago;131;Santiago;13109;La Cisterna;No;2.724;1.976;418;330
+13;Metropolitana de Santiago;131;Santiago;13109;La Cisterna;Sabe leer y escribir no declarado;1.190;132;582;476
+13;Metropolitana de Santiago;131;Santiago;13110;La Florida;Total Comuna;359.797;43.723;255.327;60.747
+13;Metropolitana de Santiago;131;Santiago;13110;La Florida;Sí;346.713;36.570;251.753;58.390
+13;Metropolitana de Santiago;131;Santiago;13110;La Florida;No;10.349;6.764;1.914;1.671
+13;Metropolitana de Santiago;131;Santiago;13110;La Florida;Sabe leer y escribir no declarado;2.735;389;1.660;686
+13;Metropolitana de Santiago;131;Santiago;13111;La Granja;Total Comuna;107.095;14.065;74.749;18.281
+13;Metropolitana de Santiago;131;Santiago;13111;La Granja;Sí;101.939;11.587;73.198;17.154
+13;Metropolitana de Santiago;131;Santiago;13111;La Granja;No;4.366;2.316;1.061;989
+13;Metropolitana de Santiago;131;Santiago;13111;La Granja;Sabe leer y escribir no declarado;790;162;490;138
+13;Metropolitana de Santiago;131;Santiago;13112;La Pintana;Total Comuna;165.887;26.206;117.380;22.301
+13;Metropolitana de Santiago;131;Santiago;13112;La Pintana;Sí;155.879;21.431;114.128;20.320
+13;Metropolitana de Santiago;131;Santiago;13112;La Pintana;No;8.775;4.519;2.362;1.894
+13;Metropolitana de Santiago;131;Santiago;13112;La Pintana;Sabe leer y escribir no declarado;1.233;256;890;87
+13;Metropolitana de Santiago;131;Santiago;13113;La Reina;Total Comuna;86.474;11.261;59.117;16.096
+13;Metropolitana de Santiago;131;Santiago;13113;La Reina;Sí;83.457;9.535;58.357;15.565
+13;Metropolitana de Santiago;131;Santiago;13113;La Reina;No;2.206;1.647;338;221
+13;Metropolitana de Santiago;131;Santiago;13113;La Reina;Sabe leer y escribir no declarado;811;79;422;310
+13;Metropolitana de Santiago;131;Santiago;13114;Las Condes;Total Comuna;283.310;29.007;200.620;53.683
+13;Metropolitana de Santiago;131;Santiago;13114;Las Condes;Sí;275.288;24.616;198.451;52.221
+13;Metropolitana de Santiago;131;Santiago;13114;Las Condes;No;4.952;4.072;538;342
+13;Metropolitana de Santiago;131;Santiago;13114;Las Condes;Sabe leer y escribir no declarado;3.070;319;1.631;1.120
+13;Metropolitana de Santiago;131;Santiago;13115;Lo Barnechea;Total Comuna;106.798;16.820;77.153;12.825
+13;Metropolitana de Santiago;131;Santiago;13115;Lo Barnechea;Sí;102.333;14.546;75.656;12.131
+13;Metropolitana de Santiago;131;Santiago;13115;Lo Barnechea;No;2.687;1.996;391;300
+13;Metropolitana de Santiago;131;Santiago;13115;Lo Barnechea;Sabe leer y escribir no declarado;1.778;278;1.106;394
+13;Metropolitana de Santiago;131;Santiago;13116;Lo Espejo;Total Comuna;83.101;11.211;58.289;13.601
+13;Metropolitana de Santiago;131;Santiago;13116;Lo Espejo;Sí;78.367;8.985;56.753;12.629
+13;Metropolitana de Santiago;131;Santiago;13116;Lo Espejo;No;4.178;2.108;1.157;913
+13;Metropolitana de Santiago;131;Santiago;13116;Lo Espejo;Sabe leer y escribir no declarado;556;118;379;59
+13;Metropolitana de Santiago;131;Santiago;13117;Lo Prado;Total Comuna;87.440;10.474;61.872;15.094
+13;Metropolitana de Santiago;131;Santiago;13117;Lo Prado;Sí;83.563;8.611;60.705;14.247
+13;Metropolitana de Santiago;131;Santiago;13117;Lo Prado;No;3.313;1.762;794;757
+13;Metropolitana de Santiago;131;Santiago;13117;Lo Prado;Sabe leer y escribir no declarado;564;101;373;90
+13;Metropolitana de Santiago;131;Santiago;13118;Macul;Total Comuna;118.903;13.084;85.893;19.926
+13;Metropolitana de Santiago;131;Santiago;13118;Macul;Sí;114.869;10.989;84.775;19.105
+13;Metropolitana de Santiago;131;Santiago;13118;Macul;No;3.049;1.983;550;516
+13;Metropolitana de Santiago;131;Santiago;13118;Macul;Sabe leer y escribir no declarado;985;112;568;305
+13;Metropolitana de Santiago;131;Santiago;13119;Maipú;Total Comuna;483.574;60.911;351.536;71.127
+13;Metropolitana de Santiago;131;Santiago;13119;Maipú;Sí;467.071;51.027;347.226;68.818
+13;Metropolitana de Santiago;131;Santiago;13119;Maipú;No;13.507;9.382;2.378;1.747
+13;Metropolitana de Santiago;131;Santiago;13119;Maipú;Sabe leer y escribir no declarado;2.996;502;1.932;562
+13;Metropolitana de Santiago;131;Santiago;13120;Ñuñoa;Total Comuna;231.986;21.657;174.549;35.780
+13;Metropolitana de Santiago;131;Santiago;13120;Ñuñoa;Sí;225.806;18.203;173.171;34.432
+13;Metropolitana de Santiago;131;Santiago;13120;Ñuñoa;No;4.017;3.307;412;298
+13;Metropolitana de Santiago;131;Santiago;13120;Ñuñoa;Sabe leer y escribir no declarado;2.163;147;966;1.050
+13;Metropolitana de Santiago;131;Santiago;13121;Pedro Aguirre Cerda;Total Comuna;91.942;11.303;63.083;17.556
+13;Metropolitana de Santiago;131;Santiago;13121;Pedro Aguirre Cerda;Sí;87.554;9.164;61.655;16.735
+13;Metropolitana de Santiago;131;Santiago;13121;Pedro Aguirre Cerda;No;3.674;1.992;942;740
+13;Metropolitana de Santiago;131;Santiago;13121;Pedro Aguirre Cerda;Sabe leer y escribir no declarado;714;147;486;81
+13;Metropolitana de Santiago;131;Santiago;13122;Peñalolén;Total Comuna;226.848;30.492;164.801;31.555
+13;Metropolitana de Santiago;131;Santiago;13122;Peñalolén;Sí;217.167;25.733;161.747;29.687
+13;Metropolitana de Santiago;131;Santiago;13122;Peñalolén;No;8.099;4.493;1.892;1.714
+13;Metropolitana de Santiago;131;Santiago;13122;Peñalolén;Sabe leer y escribir no declarado;1.582;266;1.162;154
+13;Metropolitana de Santiago;131;Santiago;13123;Providencia;Total Comuna;138.392;11.541;103.746;23.105
+13;Metropolitana de Santiago;131;Santiago;13123;Providencia;Sí;135.492;9.674;103.139;22.679
+13;Metropolitana de Santiago;131;Santiago;13123;Providencia;No;2.072;1.809;189;74
+13;Metropolitana de Santiago;131;Santiago;13123;Providencia;Sabe leer y escribir no declarado;828;58;418;352
+13;Metropolitana de Santiago;131;Santiago;13124;Pudahuel;Total Comuna;217.475;30.196;159.466;27.813
+13;Metropolitana de Santiago;131;Santiago;13124;Pudahuel;Sí;207.654;24.990;156.559;26.105
+13;Metropolitana de Santiago;131;Santiago;13124;Pudahuel;No;8.228;4.912;1.748;1.568
+13;Metropolitana de Santiago;131;Santiago;13124;Pudahuel;Sabe leer y escribir no declarado;1.593;294;1.159;140
+13;Metropolitana de Santiago;131;Santiago;13125;Quilicura;Total Comuna;195.379;28.932;148.463;17.984
+13;Metropolitana de Santiago;131;Santiago;13125;Quilicura;Sí;187.766;24.245;146.326;17.195
+13;Metropolitana de Santiago;131;Santiago;13125;Quilicura;No;6.359;4.432;1.240;687
+13;Metropolitana de Santiago;131;Santiago;13125;Quilicura;Sabe leer y escribir no declarado;1.254;255;897;102
+13;Metropolitana de Santiago;131;Santiago;13126;Quinta Normal;Total Comuna;123.231;15.944;90.143;17.144
+13;Metropolitana de Santiago;131;Santiago;13126;Quinta Normal;Sí;117.927;12.938;88.597;16.392
+13;Metropolitana de Santiago;131;Santiago;13126;Quinta Normal;No;3.929;2.794;648;487
+13;Metropolitana de Santiago;131;Santiago;13126;Quinta Normal;Sabe leer y escribir no declarado;1.375;212;898;265
+13;Metropolitana de Santiago;131;Santiago;13127;Recoleta;Total Comuna;147.505;18.376;106.537;22.592
+13;Metropolitana de Santiago;131;Santiago;13127;Recoleta;Sí;140.601;15.041;104.205;21.355
+13;Metropolitana de Santiago;131;Santiago;13127;Recoleta;No;5.259;3.109;1.190;960
+13;Metropolitana de Santiago;131;Santiago;13127;Recoleta;Sabe leer y escribir no declarado;1.645;226;1.142;277
+13;Metropolitana de Santiago;131;Santiago;13128;Renca;Total Comuna;136.216;20.297;97.531;18.388
+13;Metropolitana de Santiago;131;Santiago;13128;Renca;Sí;129.562;16.787;95.551;17.224
+13;Metropolitana de Santiago;131;Santiago;13128;Renca;No;5.789;3.325;1.372;1.092
+13;Metropolitana de Santiago;131;Santiago;13128;Renca;Sabe leer y escribir no declarado;865;185;608;72
+13;Metropolitana de Santiago;131;Santiago;13129;San Joaquín;Total Comuna;91.600;10.850;64.957;15.793
+13;Metropolitana de Santiago;131;Santiago;13129;San Joaquín;Sí;88.107;8.975;63.937;15.195
+13;Metropolitana de Santiago;131;Santiago;13129;San Joaquín;No;2.900;1.788;605;507
+13;Metropolitana de Santiago;131;Santiago;13129;San Joaquín;Sabe leer y escribir no declarado;593;87;415;91
+13;Metropolitana de Santiago;131;Santiago;13130;San Miguel;Total Comuna;143.508;16.241;109.944;17.323
+13;Metropolitana de Santiago;131;Santiago;13130;San Miguel;Sí;138.911;13.555;108.844;16.512
+13;Metropolitana de Santiago;131;Santiago;13130;San Miguel;No;3.187;2.572;354;261
+13;Metropolitana de Santiago;131;Santiago;13130;San Miguel;Sabe leer y escribir no declarado;1.410;114;746;550
+13;Metropolitana de Santiago;131;Santiago;13131;San Ramón;Total Comuna;72.718;9.207;50.780;12.731
+13;Metropolitana de Santiago;131;Santiago;13131;San Ramón;Sí;68.964;7.562;49.597;11.805
+13;Metropolitana de Santiago;131;Santiago;13131;San Ramón;No;3.195;1.575;773;847
+13;Metropolitana de Santiago;131;Santiago;13131;San Ramón;Sabe leer y escribir no declarado;559;70;410;79
+13;Metropolitana de Santiago;131;Santiago;13132;Vitacura;Total Comuna;81.429;10.024;54.778;16.627
+13;Metropolitana de Santiago;131;Santiago;13132;Vitacura;Sí;78.899;8.519;54.087;16.293
+13;Metropolitana de Santiago;131;Santiago;13132;Vitacura;No;1.534;1.351;142;41
+13;Metropolitana de Santiago;131;Santiago;13132;Vitacura;Sabe leer y escribir no declarado;996;154;549;293
+13;Metropolitana de Santiago;132;Cordillera;13201;Puente Alto;Total Comuna;541.864;78.079;397.179;66.606
+13;Metropolitana de Santiago;132;Cordillera;13201;Puente Alto;Sí;519.262;65.033;390.940;63.289
+13;Metropolitana de Santiago;132;Cordillera;13201;Puente Alto;No;19.041;12.357;3.950;2.734
+13;Metropolitana de Santiago;132;Cordillera;13201;Puente Alto;Sabe leer y escribir no declarado;3.561;689;2.289;583
+13;Metropolitana de Santiago;132;Cordillera;13202;Pirque;Total Comuna;27.643;4.032;19.617;3.994
+13;Metropolitana de Santiago;132;Cordillera;13202;Pirque;Sí;26.365;3.331;19.267;3.767
+13;Metropolitana de Santiago;132;Cordillera;13202;Pirque;No;1.052;665;201;186
+13;Metropolitana de Santiago;132;Cordillera;13202;Pirque;Sabe leer y escribir no declarado;226;36;149;41
+13;Metropolitana de Santiago;132;Cordillera;13203;San José de Maipo;Total Comuna;16.665;2.156;11.748;2.761
+13;Metropolitana de Santiago;132;Cordillera;13203;San José de Maipo;Sí;15.855;1.775;11.547;2.533
+13;Metropolitana de Santiago;132;Cordillera;13203;San José de Maipo;No;656;366;138;152
+13;Metropolitana de Santiago;132;Cordillera;13203;San José de Maipo;Sabe leer y escribir no declarado;154;15;63;76
+13;Metropolitana de Santiago;133;Chacabuco;13301;Colina;Total Comuna;161.974;29.887;118.841;13.246
+13;Metropolitana de Santiago;133;Chacabuco;13301;Colina;Sí;153.143;24.699;116.291;12.153
+13;Metropolitana de Santiago;133;Chacabuco;13301;Colina;No;7.435;4.851;1.659;925
+13;Metropolitana de Santiago;133;Chacabuco;13301;Colina;Sabe leer y escribir no declarado;1.396;337;891;168
+13;Metropolitana de Santiago;133;Chacabuco;13302;Lampa;Total Comuna;135.099;25.001;100.357;9.741
+13;Metropolitana de Santiago;133;Chacabuco;13302;Lampa;Sí;127.731;20.528;98.344;8.859
+13;Metropolitana de Santiago;133;Chacabuco;13302;Lampa;No;6.312;4.223;1.337;752
+13;Metropolitana de Santiago;133;Chacabuco;13302;Lampa;Sabe leer y escribir no declarado;1.056;250;676;130
+13;Metropolitana de Santiago;133;Chacabuco;13303;Tiltil;Total Comuna;18.635;2.794;13.134;2.707
+13;Metropolitana de Santiago;133;Chacabuco;13303;Tiltil;Sí;17.593;2.208;12.900;2.485
+13;Metropolitana de Santiago;133;Chacabuco;13303;Tiltil;No;988;570;199;219
+13;Metropolitana de Santiago;133;Chacabuco;13303;Tiltil;Sabe leer y escribir no declarado;54;16;35;3
+13;Metropolitana de Santiago;134;Maipo;13401;San Bernardo;Total Comuna;290.335;44.769;210.882;34.684
+13;Metropolitana de Santiago;134;Maipo;13401;San Bernardo;Sí;275.606;36.720;206.424;32.462
+13;Metropolitana de Santiago;134;Maipo;13401;San Bernardo;No;12.503;7.663;2.897;1.943
+13;Metropolitana de Santiago;134;Maipo;13401;San Bernardo;Sabe leer y escribir no declarado;2.226;386;1.561;279
+13;Metropolitana de Santiago;134;Maipo;13402;Buin;Total Comuna;109.790;17.740;79.923;12.127
+13;Metropolitana de Santiago;134;Maipo;13402;Buin;Sí;104.245;14.457;78.451;11.337
+13;Metropolitana de Santiago;134;Maipo;13402;Buin;No;4.779;3.115;952;712
+13;Metropolitana de Santiago;134;Maipo;13402;Buin;Sabe leer y escribir no declarado;766;168;520;78
+13;Metropolitana de Santiago;134;Maipo;13403;Calera de Tango;Total Comuna;24.296;3.398;17.463;3.435
+13;Metropolitana de Santiago;134;Maipo;13403;Calera de Tango;Sí;23.043;2.794;17.067;3.182
+13;Metropolitana de Santiago;134;Maipo;13403;Calera de Tango;No;1.080;564;288;228
+13;Metropolitana de Santiago;134;Maipo;13403;Calera de Tango;Sabe leer y escribir no declarado;173;40;108;25
+13;Metropolitana de Santiago;134;Maipo;13404;Paine;Total Comuna;74.792;11.303;53.411;10.078
+13;Metropolitana de Santiago;134;Maipo;13404;Paine;Sí;70.449;9.192;51.938;9.319
+13;Metropolitana de Santiago;134;Maipo;13404;Paine;No;3.735;2.004;1.029;702
+13;Metropolitana de Santiago;134;Maipo;13404;Paine;Sabe leer y escribir no declarado;608;107;444;57
+13;Metropolitana de Santiago;135;Melipilla;13501;Melipilla;Total Comuna;128.875;18.969;90.595;19.311
+13;Metropolitana de Santiago;135;Melipilla;13501;Melipilla;Sí;121.508;15.468;88.591;17.449
+13;Metropolitana de Santiago;135;Melipilla;13501;Melipilla;No;6.507;3.359;1.547;1.601
+13;Metropolitana de Santiago;135;Melipilla;13501;Melipilla;Sabe leer y escribir no declarado;860;142;457;261
+13;Metropolitana de Santiago;135;Melipilla;13502;Alhué;Total Comuna;7.268;1.111;5.146;1.011
+13;Metropolitana de Santiago;135;Melipilla;13502;Alhué;Sí;6.808;904;5.060;844
+13;Metropolitana de Santiago;135;Melipilla;13502;Alhué;No;439;200;74;165
+13;Metropolitana de Santiago;135;Melipilla;13502;Alhué;Sabe leer y escribir no declarado;21;7;12;2
+13;Metropolitana de Santiago;135;Melipilla;13503;Curacaví;Total Comuna;33.483;4.774;23.399;5.310
+13;Metropolitana de Santiago;135;Melipilla;13503;Curacaví;Sí;31.755;3.938;22.875;4.942
+13;Metropolitana de Santiago;135;Melipilla;13503;Curacaví;No;1.531;807;390;334
+13;Metropolitana de Santiago;135;Melipilla;13503;Curacaví;Sabe leer y escribir no declarado;197;29;134;34
+13;Metropolitana de Santiago;135;Melipilla;13504;María Pinto;Total Comuna;14.533;2.081;10.086;2.366
+13;Metropolitana de Santiago;135;Melipilla;13504;María Pinto;Sí;13.679;1.712;9.840;2.127
+13;Metropolitana de Santiago;135;Melipilla;13504;María Pinto;No;809;359;217;233
+13;Metropolitana de Santiago;135;Melipilla;13504;María Pinto;Sabe leer y escribir no declarado;45;10;29;6
+13;Metropolitana de Santiago;135;Melipilla;13505;San Pedro;Total Comuna;10.493;1.519;7.083;1.891
+13;Metropolitana de Santiago;135;Melipilla;13505;San Pedro;Sí;9.851;1.262;6.938;1.651
+13;Metropolitana de Santiago;135;Melipilla;13505;San Pedro;No;590;244;116;230
+13;Metropolitana de Santiago;135;Melipilla;13505;San Pedro;Sabe leer y escribir no declarado;52;13;29;10
+13;Metropolitana de Santiago;136;Talagante;13601;Talagante;Total Comuna;72.672;10.716;52.079;9.877
+13;Metropolitana de Santiago;136;Talagante;13601;Talagante;Sí;69.076;8.821;51.023;9.232
+13;Metropolitana de Santiago;136;Talagante;13601;Talagante;No;3.049;1.781;685;583
+13;Metropolitana de Santiago;136;Talagante;13601;Talagante;Sabe leer y escribir no declarado;547;114;371;62
+13;Metropolitana de Santiago;136;Talagante;13602;El Monte;Total Comuna;35.610;5.641;24.958;5.011
+13;Metropolitana de Santiago;136;Talagante;13602;El Monte;Sí;33.391;4.557;24.344;4.490
+13;Metropolitana de Santiago;136;Talagante;13602;El Monte;No;1.977;1.046;481;450
+13;Metropolitana de Santiago;136;Talagante;13602;El Monte;Sabe leer y escribir no declarado;242;38;133;71
+13;Metropolitana de Santiago;136;Talagante;13603;Isla de Maipo;Total Comuna;37.293;5.526;26.615;5.152
+13;Metropolitana de Santiago;136;Talagante;13603;Isla de Maipo;Sí;35.288;4.602;26.031;4.655
+13;Metropolitana de Santiago;136;Talagante;13603;Isla de Maipo;No;1.806;879;452;475
+13;Metropolitana de Santiago;136;Talagante;13603;Isla de Maipo;Sabe leer y escribir no declarado;199;45;132;22
+13;Metropolitana de Santiago;136;Talagante;13604;Padre Hurtado;Total Comuna;76.316;12.554;55.983;7.779
+13;Metropolitana de Santiago;136;Talagante;13604;Padre Hurtado;Sí;72.572;10.284;55.098;7.190
+13;Metropolitana de Santiago;136;Talagante;13604;Padre Hurtado;No;3.292;2.181;553;558
+13;Metropolitana de Santiago;136;Talagante;13604;Padre Hurtado;Sabe leer y escribir no declarado;452;89;332;31
+13;Metropolitana de Santiago;136;Talagante;13605;Peñaflor;Total Comuna;89.901;13.244;64.609;12.048
+13;Metropolitana de Santiago;136;Talagante;13605;Peñaflor;Sí;85.622;10.878;63.473;11.271
+13;Metropolitana de Santiago;136;Talagante;13605;Peñaflor;No;3.732;2.246;761;725
+13;Metropolitana de Santiago;136;Talagante;13605;Peñaflor;Sabe leer y escribir no declarado;547;120;375;52
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6101;Rancagua;Total Comuna;245.990;34.028;176.099;35.863
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6101;Rancagua;Sí;234.802;28.010;172.849;33.943
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6101;Rancagua;No;9.765;5.701;2.284;1.780
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6101;Rancagua;Sabe leer y escribir no declarado;1.423;317;966;140
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6102;Codegua;Total Comuna;13.316;1.876;9.426;2.014
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6102;Codegua;Sí;12.576;1.546;9.208;1.822
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6102;Codegua;No;709;320;204;185
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6102;Codegua;Sabe leer y escribir no declarado;31;10;14;7
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6103;Coinco;Total Comuna;7.540;957;5.136;1.447
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6103;Coinco;Sí;7.142;793;5.004;1.345
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6103;Coinco;No;360;153;106;101
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6103;Coinco;Sabe leer y escribir no declarado;38;11;26;1
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6104;Coltauco;Total Comuna;20.360;2.854;14.060;3.446
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6104;Coltauco;Sí;19.143;2.423;13.690;3.030
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6104;Coltauco;No;1.170;423;335;412
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6104;Coltauco;Sabe leer y escribir no declarado;47;8;35;4
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6105;Doñihue;Total Comuna;20.877;3.016;14.540;3.321
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6105;Doñihue;Sí;19.943;2.586;14.271;3.086
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6105;Doñihue;No;848;414;205;229
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6105;Doñihue;Sabe leer y escribir no declarado;86;16;64;6
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6106;Graneros;Total Comuna;34.046;5.239;24.431;4.376
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6106;Graneros;Sí;32.154;4.302;23.865;3.987
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6106;Graneros;No;1.660;890;402;368
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6106;Graneros;Sabe leer y escribir no declarado;232;47;164;21
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6107;Las Cabras;Total Comuna;26.216;3.594;18.155;4.467
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6107;Las Cabras;Sí;24.504;2.961;17.666;3.877
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6107;Las Cabras;No;1.634;613;437;584
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6107;Las Cabras;Sabe leer y escribir no declarado;78;20;52;6
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6108;Machalí;Total Comuna;57.798;9.734;41.349;6.715
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6108;Machalí;Sí;55.233;8.147;40.737;6.349
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6108;Machalí;No;2.201;1.508;367;326
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6108;Machalí;Sabe leer y escribir no declarado;364;79;245;40
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6109;Malloa;Total Comuna;13.189;1.655;9.106;2.428
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6109;Malloa;Sí;12.383;1.380;8.820;2.183
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6109;Malloa;No;794;272;277;245
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6109;Malloa;Sabe leer y escribir no declarado;12;3;9;0
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6110;Mostazal;Total Comuna;26.017;3.751;18.306;3.960
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6110;Mostazal;Sí;24.459;3.056;17.854;3.549
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6110;Mostazal;No;1.500;679;415;406
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6110;Mostazal;Sabe leer y escribir no declarado;58;16;37;5
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6111;Olivar;Total Comuna;13.265;1.842;9.342;2.081
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6111;Olivar;Sí;12.597;1.550;9.145;1.902
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6111;Olivar;No;645;287;184;174
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6111;Olivar;Sabe leer y escribir no declarado;23;5;13;5
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6112;Peumo;Total Comuna;13.569;1.759;9.450;2.360
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6112;Peumo;Sí;12.671;1.493;9.125;2.053
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6112;Peumo;No;886;263;316;307
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6112;Peumo;Sabe leer y escribir no declarado;12;3;9;0
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6113;Pichidegua;Total Comuna;19.336;2.431;13.191;3.714
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6113;Pichidegua;Sí;17.997;2.055;12.779;3.163
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6113;Pichidegua;No;1.285;370;375;540
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6113;Pichidegua;Sabe leer y escribir no declarado;54;6;37;11
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6114;Quinta de Tilcoco;Total Comuna;12.909;1.634;9.068;2.207
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6114;Quinta de Tilcoco;Sí;12.063;1.345;8.794;1.924
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6114;Quinta de Tilcoco;No;835;286;266;283
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6114;Quinta de Tilcoco;Sabe leer y escribir no declarado;11;3;8;0
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6115;Rengo;Total Comuna;60.309;8.892;42.621;8.796
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6115;Rengo;Sí;56.887;7.290;41.583;8.014
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6115;Rengo;No;3.186;1.536;894;756
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6115;Rengo;Sabe leer y escribir no declarado;236;66;144;26
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6116;Requínoa;Total Comuna;28.020;4.132;20.010;3.878
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6116;Requínoa;Sí;26.446;3.416;19.548;3.482
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6116;Requínoa;No;1.516;707;420;389
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6116;Requínoa;Sabe leer y escribir no declarado;58;9;42;7
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6117;San Vicente;Total Comuna;47.303;6.229;32.542;8.532
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6117;San Vicente;Sí;44.677;5.156;31.784;7.737
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6117;San Vicente;No;2.475;1.038;651;786
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6117;San Vicente;Sabe leer y escribir no declarado;151;35;107;9
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6201;Pichilemu;Total Comuna;18.856;2.574;13.018;3.264
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6201;Pichilemu;Sí;17.682;2.065;12.675;2.942
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6201;Pichilemu;No;997;463;221;313
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6201;Pichilemu;Sabe leer y escribir no declarado;177;46;122;9
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6202;La Estrella;Total Comuna;4.418;537;2.938;943
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6202;La Estrella;Sí;4.143;426;2.883;834
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6202;La Estrella;No;257;110;52;95
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6202;La Estrella;Sabe leer y escribir no declarado;18;1;3;14
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6203;Litueche;Total Comuna;8.422;1.113;5.632;1.677
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6203;Litueche;Sí;7.891;901;5.481;1.509
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6203;Litueche;No;511;209;136;166
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6203;Litueche;Sabe leer y escribir no declarado;20;3;15;2
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6204;Marchihue;Total Comuna;8.329;1.001;5.664;1.664
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6204;Marchihue;Sí;7.762;810;5.522;1.430
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6204;Marchihue;No;552;187;134;231
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6204;Marchihue;Sabe leer y escribir no declarado;15;4;8;3
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6205;Navidad;Total Comuna;8.487;1.069;5.456;1.962
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6205;Navidad;Sí;7.925;843;5.321;1.761
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6205;Navidad;No;549;222;129;198
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6205;Navidad;Sabe leer y escribir no declarado;13;4;6;3
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6206;Paredones;Total Comuna;6.947;800;4.563;1.584
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6206;Paredones;Sí;6.161;611;4.351;1.199
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6206;Paredones;No;772;184;204;384
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6206;Paredones;Sabe leer y escribir no declarado;14;5;8;1
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6301;San Fernando;Total Comuna;71.841;10.415;50.250;11.176
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6301;San Fernando;Sí;68.082;8.581;49.151;10.350
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6301;San Fernando;No;3.299;1.738;776;785
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6301;San Fernando;Sabe leer y escribir no declarado;460;96;323;41
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6302;Chépica;Total Comuna;15.033;1.930;10.207;2.896
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6302;Chépica;Sí;13.900;1.604;9.880;2.416
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6302;Chépica;No;1.114;317;323;474
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6302;Chépica;Sabe leer y escribir no declarado;19;9;4;6
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6303;Chimbarongo;Total Comuna;35.537;4.876;24.990;5.671
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6303;Chimbarongo;Sí;33.332;4.132;24.248;4.952
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6303;Chimbarongo;No;2.146;727;705;714
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6303;Chimbarongo;Sabe leer y escribir no declarado;59;17;37;5
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6304;Lolol;Total Comuna;7.436;888;5.046;1.502
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6304;Lolol;Sí;6.723;727;4.855;1.141
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6304;Lolol;No;702;157;184;361
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6304;Lolol;Sabe leer y escribir no declarado;11;4;7;0
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6305;Nancagua;Total Comuna;17.818;2.390;12.573;2.855
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6305;Nancagua;Sí;16.614;1.923;12.245;2.446
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6305;Nancagua;No;1.120;458;275;387
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6305;Nancagua;Sabe leer y escribir no declarado;84;9;53;22
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6306;Palmilla;Total Comuna;12.483;1.582;8.670;2.231
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6306;Palmilla;Sí;11.606;1.334;8.386;1.886
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6306;Palmilla;No;843;237;265;341
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6306;Palmilla;Sabe leer y escribir no declarado;34;11;19;4
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6307;Peralillo;Total Comuna;11.939;1.494;8.292;2.153
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6307;Peralillo;Sí;11.076;1.219;8.073;1.784
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6307;Peralillo;No;839;264;206;369
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6307;Peralillo;Sabe leer y escribir no declarado;24;11;13;0
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6308;Placilla;Total Comuna;8.993;1.194;6.246;1.553
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6308;Placilla;Sí;8.395;973;6.059;1.363
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6308;Placilla;No;563;214;161;188
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6308;Placilla;Sabe leer y escribir no declarado;35;7;26;2
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6309;Pumanque;Total Comuna;4.378;488;2.858;1.032
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6309;Pumanque;Sí;4.046;405;2.765;876
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6309;Pumanque;No;328;82;90;156
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6309;Pumanque;Sabe leer y escribir no declarado;4;1;3;0
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6310;Santa Cruz;Total Comuna;39.253;5.345;27.469;6.439
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6310;Santa Cruz;Sí;36.886;4.380;26.867;5.639
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6310;Santa Cruz;No;2.272;941;543;788
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6310;Santa Cruz;Sabe leer y escribir no declarado;95;24;59;12
+7;Maule;71;Talca;7101;Talca;Total Comuna;220.858;29.132;157.683;34.043
+7;Maule;71;Talca;7101;Talca;Sí;210.209;23.790;154.779;31.640
+7;Maule;71;Talca;7101;Talca;No;9.445;5.147;2.169;2.129
+7;Maule;71;Talca;7101;Talca;Sabe leer y escribir no declarado;1.204;195;735;274
+7;Maule;71;Talca;7102;Constitución;Total Comuna;44.636;6.614;31.439;6.583
+7;Maule;71;Talca;7102;Constitución;Sí;41.678;5.504;30.416;5.758
+7;Maule;71;Talca;7102;Constitución;No;2.607;1.034;786;787
+7;Maule;71;Talca;7102;Constitución;Sabe leer y escribir no declarado;351;76;237;38
+7;Maule;71;Talca;7103;Curepto;Total Comuna;9.177;898;5.998;2.281
+7;Maule;71;Talca;7103;Curepto;Sí;8.503;767;5.802;1.934
+7;Maule;71;Talca;7103;Curepto;No;668;129;193;346
+7;Maule;71;Talca;7103;Curepto;Sabe leer y escribir no declarado;6;2;3;1
+7;Maule;71;Talca;7104;Empedrado;Total Comuna;3.785;500;2.651;634
+7;Maule;71;Talca;7104;Empedrado;Sí;3.390;413;2.539;438
+7;Maule;71;Talca;7104;Empedrado;No;391;87;108;196
+7;Maule;71;Talca;7104;Empedrado;Sabe leer y escribir no declarado;4;0;4;0
+7;Maule;71;Talca;7105;Maule;Total Comuna;57.495;10.088;42.295;5.112
+7;Maule;71;Talca;7105;Maule;Sí;54.243;8.241;41.425;4.577
+7;Maule;71;Talca;7105;Maule;No;2.977;1.782;675;520
+7;Maule;71;Talca;7105;Maule;Sabe leer y escribir no declarado;275;65;195;15
+7;Maule;71;Talca;7106;Pelarco;Total Comuna;8.778;1.198;5.976;1.604
+7;Maule;71;Talca;7106;Pelarco;Sí;8.019;973;5.746;1.300
+7;Maule;71;Talca;7106;Pelarco;No;688;209;181;298
+7;Maule;71;Talca;7106;Pelarco;Sabe leer y escribir no declarado;71;16;49;6
+7;Maule;71;Talca;7107;Pencahue;Total Comuna;8.758;1.023;6.126;1.609
+7;Maule;71;Talca;7107;Pencahue;Sí;8.033;835;5.937;1.261
+7;Maule;71;Talca;7107;Pencahue;No;720;186;186;348
+7;Maule;71;Talca;7107;Pencahue;Sabe leer y escribir no declarado;5;2;3;0
+7;Maule;71;Talca;7108;Río Claro;Total Comuna;13.626;1.788;9.363;2.475
+7;Maule;71;Talca;7108;Río Claro;Sí;12.421;1.462;8.981;1.978
+7;Maule;71;Talca;7108;Río Claro;No;1.151;310;345;496
+7;Maule;71;Talca;7108;Río Claro;Sabe leer y escribir no declarado;54;16;37;1
+7;Maule;71;Talca;7109;San Clemente;Total Comuna;44.862;6.360;31.246;7.256
+7;Maule;71;Talca;7109;San Clemente;Sí;41.540;5.272;30.138;6.130
+7;Maule;71;Talca;7109;San Clemente;No;3.118;1.051;980;1.087
+7;Maule;71;Talca;7109;San Clemente;Sabe leer y escribir no declarado;204;37;128;39
+7;Maule;71;Talca;7110;San Rafael;Total Comuna;10.685;1.584;7.353;1.748
+7;Maule;71;Talca;7110;San Rafael;Sí;9.920;1.310;7.178;1.432
+7;Maule;71;Talca;7110;San Rafael;No;732;262;155;315
+7;Maule;71;Talca;7110;San Rafael;Sabe leer y escribir no declarado;33;12;20;1
+7;Maule;72;Cauquenes;7201;Cauquenes;Total Comuna;40.779;5.521;27.249;8.009
+7;Maule;72;Cauquenes;7201;Cauquenes;Sí;37.970;4.506;26.540;6.924
+7;Maule;72;Cauquenes;7201;Cauquenes;No;2.693;988;669;1.036
+7;Maule;72;Cauquenes;7201;Cauquenes;Sabe leer y escribir no declarado;116;27;40;49
+7;Maule;72;Cauquenes;7202;Chanco;Total Comuna;9.066;1.189;6.130;1.747
+7;Maule;72;Cauquenes;7202;Chanco;Sí;8.295;964;5.870;1.461
+7;Maule;72;Cauquenes;7202;Chanco;No;770;225;259;286
+7;Maule;72;Cauquenes;7202;Chanco;Sabe leer y escribir no declarado;1;0;1;0
+7;Maule;72;Cauquenes;7203;Pelluhue;Total Comuna;8.167;1.086;5.364;1.717
+7;Maule;72;Cauquenes;7203;Pelluhue;Sí;7.569;891;5.192;1.486
+7;Maule;72;Cauquenes;7203;Pelluhue;No;559;187;151;221
+7;Maule;72;Cauquenes;7203;Pelluhue;Sabe leer y escribir no declarado;39;8;21;10
+7;Maule;73;Curicó;7301;Curicó;Total Comuna;152.032;21.644;108.493;21.895
+7;Maule;73;Curicó;7301;Curicó;Sí;144.372;17.878;106.495;19.999
+7;Maule;73;Curicó;7301;Curicó;No;7.077;3.668;1.649;1.760
+7;Maule;73;Curicó;7301;Curicó;Sabe leer y escribir no declarado;583;98;349;136
+7;Maule;73;Curicó;7302;Hualañé;Total Comuna;10.330;1.258;6.915;2.157
+7;Maule;73;Curicó;7302;Hualañé;Sí;9.396;993;6.673;1.730
+7;Maule;73;Curicó;7302;Hualañé;No;886;255;211;420
+7;Maule;73;Curicó;7302;Hualañé;Sabe leer y escribir no declarado;48;10;31;7
+7;Maule;73;Curicó;7303;Licantén;Total Comuna;6.592;795;4.507;1.290
+7;Maule;73;Curicó;7303;Licantén;Sí;6.183;667;4.406;1.110
+7;Maule;73;Curicó;7303;Licantén;No;396;125;93;178
+7;Maule;73;Curicó;7303;Licantén;Sabe leer y escribir no declarado;13;3;8;2
+7;Maule;73;Curicó;7304;Molina;Total Comuna;46.712;6.576;32.549;7.587
+7;Maule;73;Curicó;7304;Molina;Sí;43.619;5.417;31.649;6.553
+7;Maule;73;Curicó;7304;Molina;No;2.872;1.136;776;960
+7;Maule;73;Curicó;7304;Molina;Sabe leer y escribir no declarado;221;23;124;74
+7;Maule;73;Curicó;7305;Rauco;Total Comuna;10.762;1.400;7.476;1.886
+7;Maule;73;Curicó;7305;Rauco;Sí;9.931;1.130;7.255;1.546
+7;Maule;73;Curicó;7305;Rauco;No;810;262;208;340
+7;Maule;73;Curicó;7305;Rauco;Sabe leer y escribir no declarado;21;8;13;0
+7;Maule;73;Curicó;7306;Romeral;Total Comuna;16.377;2.311;11.661;2.405
+7;Maule;73;Curicó;7306;Romeral;Sí;15.241;1.908;11.326;2.007
+7;Maule;73;Curicó;7306;Romeral;No;1.099;394;312;393
+7;Maule;73;Curicó;7306;Romeral;Sabe leer y escribir no declarado;37;9;23;5
+7;Maule;73;Curicó;7307;Sagrada Familia;Total Comuna;18.496;2.327;13.060;3.109
+7;Maule;73;Curicó;7307;Sagrada Familia;Sí;17.032;1.925;12.601;2.506
+7;Maule;73;Curicó;7307;Sagrada Familia;No;1.414;390;424;600
+7;Maule;73;Curicó;7307;Sagrada Familia;Sabe leer y escribir no declarado;50;12;35;3
+7;Maule;73;Curicó;7308;Teno;Total Comuna;28.767;3.806;20.146;4.815
+7;Maule;73;Curicó;7308;Teno;Sí;26.479;3.071;19.450;3.958
+7;Maule;73;Curicó;7308;Teno;No;2.237;722;667;848
+7;Maule;73;Curicó;7308;Teno;Sabe leer y escribir no declarado;51;13;29;9
+7;Maule;73;Curicó;7309;Vichuquén;Total Comuna;4.532;512;3.064;956
+7;Maule;73;Curicó;7309;Vichuquén;Sí;4.206;421;2.976;809
+7;Maule;73;Curicó;7309;Vichuquén;No;314;89;82;143
+7;Maule;73;Curicó;7309;Vichuquén;Sabe leer y escribir no declarado;12;2;6;4
+7;Maule;74;Linares;7401;Linares;Total Comuna;92.285;13.262;63.821;15.202
+7;Maule;74;Linares;7401;Linares;Sí;87.350;11.089;62.381;13.880
+7;Maule;74;Linares;7401;Linares;No;4.518;2.083;1.211;1.224
+7;Maule;74;Linares;7401;Linares;Sabe leer y escribir no declarado;417;90;229;98
+7;Maule;74;Linares;7402;Colbún;Total Comuna;21.558;3.070;14.718;3.770
+7;Maule;74;Linares;7402;Colbún;Sí;20.016;2.513;14.276;3.227
+7;Maule;74;Linares;7402;Colbún;No;1.438;527;408;503
+7;Maule;74;Linares;7402;Colbún;Sabe leer y escribir no declarado;104;30;34;40
+7;Maule;74;Linares;7403;Longaví;Total Comuna;31.696;4.233;21.982;5.481
+7;Maule;74;Linares;7403;Longaví;Sí;29.135;3.516;21.094;4.525
+7;Maule;74;Linares;7403;Longaví;No;2.484;702;838;944
+7;Maule;74;Linares;7403;Longaví;Sabe leer y escribir no declarado;77;15;50;12
+7;Maule;74;Linares;7404;Parral;Total Comuna;43.208;6.135;29.325;7.748
+7;Maule;74;Linares;7404;Parral;Sí;40.150;5.034;28.408;6.708
+7;Maule;74;Linares;7404;Parral;No;2.981;1.084;872;1.025
+7;Maule;74;Linares;7404;Parral;Sabe leer y escribir no declarado;77;17;45;15
+7;Maule;74;Linares;7405;Retiro;Total Comuna;21.283;2.867;14.595;3.821
+7;Maule;74;Linares;7405;Retiro;Sí;19.697;2.418;14.069;3.210
+7;Maule;74;Linares;7405;Retiro;No;1.545;444;495;606
+7;Maule;74;Linares;7405;Retiro;Sabe leer y escribir no declarado;41;5;31;5
+7;Maule;74;Linares;7406;San Javier;Total Comuna;47.065;6.975;32.493;7.597
+7;Maule;74;Linares;7406;San Javier;Sí;43.807;5.748;31.486;6.573
+7;Maule;74;Linares;7406;San Javier;No;3.024;1.172;874;978
+7;Maule;74;Linares;7406;San Javier;Sabe leer y escribir no declarado;234;55;133;46
+7;Maule;74;Linares;7407;Villa Alegre;Total Comuna;17.068;2.386;11.476;3.206
+7;Maule;74;Linares;7407;Villa Alegre;Sí;15.825;1.948;11.056;2.821
+7;Maule;74;Linares;7407;Villa Alegre;No;1.153;419;361;373
+7;Maule;74;Linares;7407;Villa Alegre;Sabe leer y escribir no declarado;90;19;59;12
+7;Maule;74;Linares;7408;Yerbas Buenas;Total Comuna;19.084;2.703;13.249;3.132
+7;Maule;74;Linares;7408;Yerbas Buenas;Sí;17.525;2.247;12.647;2.631
+7;Maule;74;Linares;7408;Yerbas Buenas;No;1.502;448;572;482
+7;Maule;74;Linares;7408;Yerbas Buenas;Sabe leer y escribir no declarado;57;8;30;19
+16;Ñuble;161;Diguillín;16101;Chillán;Total Comuna;181.437;24.176;128.445;28.816
+16;Ñuble;161;Diguillín;16101;Chillán;Sí;172.564;19.801;125.921;26.842
+16;Ñuble;161;Diguillín;16101;Chillán;No;8.002;4.218;1.946;1.838
+16;Ñuble;161;Diguillín;16101;Chillán;Sabe leer y escribir no declarado;871;157;578;136
+16;Ñuble;161;Diguillín;16102;Bulnes;Total Comuna;22.749;3.025;15.611;4.113
+16;Ñuble;161;Diguillín;16102;Bulnes;Sí;21.142;2.471;15.090;3.581
+16;Ñuble;161;Diguillín;16102;Bulnes;No;1.547;539;482;526
+16;Ñuble;161;Diguillín;16102;Bulnes;Sabe leer y escribir no declarado;60;15;39;6
+16;Ñuble;161;Diguillín;16103;Chillán Viejo;Total Comuna;31.105;4.429;22.541;4.135
+16;Ñuble;161;Diguillín;16103;Chillán Viejo;Sí;29.408;3.599;22.048;3.761
+16;Ñuble;161;Diguillín;16103;Chillán Viejo;No;1.580;791;424;365
+16;Ñuble;161;Diguillín;16103;Chillán Viejo;Sabe leer y escribir no declarado;117;39;69;9
+16;Ñuble;161;Diguillín;16104;El Carmen;Total Comuna;12.581;1.590;8.698;2.293
+16;Ñuble;161;Diguillín;16104;El Carmen;Sí;11.652;1.276;8.442;1.934
+16;Ñuble;161;Diguillín;16104;El Carmen;No;895;313;249;333
+16;Ñuble;161;Diguillín;16104;El Carmen;Sabe leer y escribir no declarado;34;1;7;26
+16;Ñuble;161;Diguillín;16105;Pemuco;Total Comuna;8.492;1.079;5.910;1.503
+16;Ñuble;161;Diguillín;16105;Pemuco;Sí;7.828;861;5.726;1.241
+16;Ñuble;161;Diguillín;16105;Pemuco;No;635;213;165;257
+16;Ñuble;161;Diguillín;16105;Pemuco;Sabe leer y escribir no declarado;29;5;19;5
+16;Ñuble;161;Diguillín;16106;Pinto;Total Comuna;11.914;1.418;8.259;2.237
+16;Ñuble;161;Diguillín;16106;Pinto;Sí;11.169;1.178;8.039;1.952
+16;Ñuble;161;Diguillín;16106;Pinto;No;686;233;214;239
+16;Ñuble;161;Diguillín;16106;Pinto;Sabe leer y escribir no declarado;59;7;6;46
+16;Ñuble;161;Diguillín;16107;Quillón;Total Comuna;18.379;2.226;12.100;4.053
+16;Ñuble;161;Diguillín;16107;Quillón;Sí;17.018;1.839;11.639;3.540
+16;Ñuble;161;Diguillín;16107;Quillón;No;1.261;366;400;495
+16;Ñuble;161;Diguillín;16107;Quillón;Sabe leer y escribir no declarado;100;21;61;18
+16;Ñuble;161;Diguillín;16108;San Ignacio;Total Comuna;16.656;2.043;11.443;3.170
+16;Ñuble;161;Diguillín;16108;San Ignacio;Sí;15.277;1.624;10.956;2.697
+16;Ñuble;161;Diguillín;16108;San Ignacio;No;1.329;402;455;472
+16;Ñuble;161;Diguillín;16108;San Ignacio;Sabe leer y escribir no declarado;50;17;32;1
+16;Ñuble;161;Diguillín;16109;Yungay;Total Comuna;17.914;2.299;12.246;3.369
+16;Ñuble;161;Diguillín;16109;Yungay;Sí;16.821;1.848;11.986;2.987
+16;Ñuble;161;Diguillín;16109;Yungay;No;1.037;438;228;371
+16;Ñuble;161;Diguillín;16109;Yungay;Sabe leer y escribir no declarado;56;13;32;11
+16;Ñuble;162;Itata;16201;Quirihue;Total Comuna;11.233;1.402;7.604;2.227
+16;Ñuble;162;Itata;16201;Quirihue;Sí;10.417;1.185;7.327;1.905
+16;Ñuble;162;Itata;16201;Quirihue;No;804;214;271;319
+16;Ñuble;162;Itata;16201;Quirihue;Sabe leer y escribir no declarado;12;3;6;3
+16;Ñuble;162;Itata;16202;Cobquecura;Total Comuna;5.291;534;3.466;1.291
+16;Ñuble;162;Itata;16202;Cobquecura;Sí;4.815;437;3.314;1.064
+16;Ñuble;162;Itata;16202;Cobquecura;No;469;92;150;227
+16;Ñuble;162;Itata;16202;Cobquecura;Sabe leer y escribir no declarado;7;5;2;0
+16;Ñuble;162;Itata;16203;Coelemu;Total Comuna;15.189;1.991;10.242;2.956
+16;Ñuble;162;Itata;16203;Coelemu;Sí;14.072;1.618;9.916;2.538
+16;Ñuble;162;Itata;16203;Coelemu;No;1.076;360;300;416
+16;Ñuble;162;Itata;16203;Coelemu;Sabe leer y escribir no declarado;41;13;26;2
+16;Ñuble;162;Itata;16204;Ninhue;Total Comuna;5.551;631;3.693;1.227
+16;Ñuble;162;Itata;16204;Ninhue;Sí;4.982;525;3.496;961
+16;Ñuble;162;Itata;16204;Ninhue;No;566;105;195;266
+16;Ñuble;162;Itata;16204;Ninhue;Sabe leer y escribir no declarado;3;1;2;0
+16;Ñuble;162;Itata;16205;Portezuelo;Total Comuna;5.021;556;3.341;1.124
+16;Ñuble;162;Itata;16205;Portezuelo;Sí;4.534;460;3.141;933
+16;Ñuble;162;Itata;16205;Portezuelo;No;483;95;197;191
+16;Ñuble;162;Itata;16205;Portezuelo;Sabe leer y escribir no declarado;4;1;3;0
+16;Ñuble;162;Itata;16206;Ránquil;Total Comuna;6.249;790;3.975;1.484
+16;Ñuble;162;Itata;16206;Ránquil;Sí;5.758;642;3.838;1.278
+16;Ñuble;162;Itata;16206;Ránquil;No;475;141;130;204
+16;Ñuble;162;Itata;16206;Ránquil;Sabe leer y escribir no declarado;16;7;7;2
+16;Ñuble;162;Itata;16207;Trehuaco;Total Comuna;5.866;687;4.007;1.172
+16;Ñuble;162;Itata;16207;Trehuaco;Sí;5.350;568;3.822;960
+16;Ñuble;162;Itata;16207;Trehuaco;No;509;118;182;209
+16;Ñuble;162;Itata;16207;Trehuaco;Sabe leer y escribir no declarado;7;1;3;3
+16;Ñuble;163;Punilla;16301;San Carlos;Total Comuna;53.247;6.906;36.832;9.509
+16;Ñuble;163;Punilla;16301;San Carlos;Sí;49.483;5.631;35.720;8.132
+16;Ñuble;163;Punilla;16301;San Carlos;No;3.558;1.229;987;1.342
+16;Ñuble;163;Punilla;16301;San Carlos;Sabe leer y escribir no declarado;206;46;125;35
+16;Ñuble;163;Punilla;16302;Coihueco;Total Comuna;28.276;4.002;20.041;4.233
+16;Ñuble;163;Punilla;16302;Coihueco;Sí;25.881;3.247;19.138;3.496
+16;Ñuble;163;Punilla;16302;Coihueco;No;2.259;727;799;733
+16;Ñuble;163;Punilla;16302;Coihueco;Sabe leer y escribir no declarado;136;28;104;4
+16;Ñuble;163;Punilla;16303;Ñiquén;Total Comuna;12.292;1.471;8.040;2.781
+16;Ñuble;163;Punilla;16303;Ñiquén;Sí;11.234;1.220;7.662;2.352
+16;Ñuble;163;Punilla;16303;Ñiquén;No;1.027;245;357;425
+16;Ñuble;163;Punilla;16303;Ñiquén;Sabe leer y escribir no declarado;31;6;21;4
+16;Ñuble;163;Punilla;16304;San Fabián;Total Comuna;4.994;699;3.335;960
+16;Ñuble;163;Punilla;16304;San Fabián;Sí;4.574;562;3.253;759
+16;Ñuble;163;Punilla;16304;San Fabián;No;413;134;78;201
+16;Ñuble;163;Punilla;16304;San Fabián;Sabe leer y escribir no declarado;7;3;4;0
+16;Ñuble;163;Punilla;16305;San Nicolás;Total Comuna;14.406;1.895;9.930;2.581
+16;Ñuble;163;Punilla;16305;San Nicolás;Sí;13.247;1.582;9.521;2.144
+16;Ñuble;163;Punilla;16305;San Nicolás;No;1.102;300;371;431
+16;Ñuble;163;Punilla;16305;San Nicolás;Sabe leer y escribir no declarado;57;13;38;6
+8;Biobío;81;Concepción;8101;Concepción;Total Comuna;221.861;23.348;164.440;34.073
+8;Biobío;81;Concepción;8101;Concepción;Sí;214.791;19.566;162.471;32.754
+8;Biobío;81;Concepción;8101;Concepción;No;6.250;3.655;1.389;1.206
+8;Biobío;81;Concepción;8101;Concepción;Sabe leer y escribir no declarado;820;127;580;113
+8;Biobío;81;Concepción;8102;Coronel;Total Comuna;117.125;18.218;83.219;15.688
+8;Biobío;81;Concepción;8102;Coronel;Sí;111.184;14.903;81.770;14.511
+8;Biobío;81;Concepción;8102;Coronel;No;5.717;3.257;1.304;1.156
+8;Biobío;81;Concepción;8102;Coronel;Sabe leer y escribir no declarado;224;58;145;21
+8;Biobío;81;Concepción;8103;Chiguayante;Total Comuna;82.164;10.593;58.404;13.167
+8;Biobío;81;Concepción;8103;Chiguayante;Sí;79.171;8.926;57.714;12.531
+8;Biobío;81;Concepción;8103;Chiguayante;No;2.740;1.636;541;563
+8;Biobío;81;Concepción;8103;Chiguayante;Sabe leer y escribir no declarado;253;31;149;73
+8;Biobío;81;Concepción;8104;Florida;Total Comuna;12.406;1.500;8.413;2.493
+8;Biobío;81;Concepción;8104;Florida;Sí;11.415;1.239;8.126;2.050
+8;Biobío;81;Concepción;8104;Florida;No;968;253;277;438
+8;Biobío;81;Concepción;8104;Florida;Sabe leer y escribir no declarado;23;8;10;5
+8;Biobío;81;Concepción;8105;Hualqui;Total Comuna;24.527;3.621;17.276;3.630
+8;Biobío;81;Concepción;8105;Hualqui;Sí;22.914;3.009;16.760;3.145
+8;Biobío;81;Concepción;8105;Hualqui;No;1.521;595;459;467
+8;Biobío;81;Concepción;8105;Hualqui;Sabe leer y escribir no declarado;92;17;57;18
+8;Biobío;81;Concepción;8106;Lota;Total Comuna;38.220;4.852;26.475;6.893
+8;Biobío;81;Concepción;8106;Lota;Sí;35.938;3.981;25.776;6.181
+8;Biobío;81;Concepción;8106;Lota;No;2.219;847;666;706
+8;Biobío;81;Concepción;8106;Lota;Sabe leer y escribir no declarado;63;24;33;6
+8;Biobío;81;Concepción;8107;Penco;Total Comuna;46.783;6.337;32.890;7.556
+8;Biobío;81;Concepción;8107;Penco;Sí;44.621;5.252;32.332;7.037
+8;Biobío;81;Concepción;8107;Penco;No;2.085;1.071;524;490
+8;Biobío;81;Concepción;8107;Penco;Sabe leer y escribir no declarado;77;14;34;29
+8;Biobío;81;Concepción;8108;San Pedro de La paz;Total Comuna;143.144;22.496;104.254;16.394
+8;Biobío;81;Concepción;8108;San Pedro de La paz;Sí;136.728;18.642;102.702;15.384
+8;Biobío;81;Concepción;8108;San Pedro de La paz;No;5.840;3.741;1.206;893
+8;Biobío;81;Concepción;8108;San Pedro de La paz;Sabe leer y escribir no declarado;576;113;346;117
+8;Biobío;81;Concepción;8109;Santa Juana;Total Comuna;14.284;2.040;9.750;2.494
+8;Biobío;81;Concepción;8109;Santa Juana;Sí;13.238;1.688;9.457;2.093
+8;Biobío;81;Concepción;8109;Santa Juana;No;1.016;346;275;395
+8;Biobío;81;Concepción;8109;Santa Juana;Sabe leer y escribir no declarado;30;6;18;6
+8;Biobío;81;Concepción;8110;Talcahuano;Total Comuna;140.885;17.772;99.208;23.905
+8;Biobío;81;Concepción;8110;Talcahuano;Sí;135.364;14.775;97.800;22.789
+8;Biobío;81;Concepción;8110;Talcahuano;No;5.141;2.912;1.173;1.056
+8;Biobío;81;Concepción;8110;Talcahuano;Sabe leer y escribir no declarado;380;85;235;60
+8;Biobío;81;Concepción;8111;Tomé;Total Comuna;54.590;6.940;37.576;10.074
+8;Biobío;81;Concepción;8111;Tomé;Sí;52.004;5.786;36.910;9.308
+8;Biobío;81;Concepción;8111;Tomé;No;2.497;1.127;617;753
+8;Biobío;81;Concepción;8111;Tomé;Sabe leer y escribir no declarado;89;27;49;13
+8;Biobío;81;Concepción;8112;Hualpén;Total Comuna;84.379;10.558;59.838;13.983
+8;Biobío;81;Concepción;8112;Hualpén;Sí;81.166;8.839;59.059;13.268
+8;Biobío;81;Concepción;8112;Hualpén;No;2.980;1.680;631;669
+8;Biobío;81;Concepción;8112;Hualpén;Sabe leer y escribir no declarado;233;39;148;46
+8;Biobío;82;Arauco;8201;Lebu;Total Comuna;24.068;3.561;16.892;3.615
+8;Biobío;82;Arauco;8201;Lebu;Sí;22.541;2.958;16.417;3.166
+8;Biobío;82;Arauco;8201;Lebu;No;1.492;593;452;447
+8;Biobío;82;Arauco;8201;Lebu;Sabe leer y escribir no declarado;35;10;23;2
+8;Biobío;82;Arauco;8202;Arauco;Total Comuna;35.397;5.071;24.985;5.341
+8;Biobío;82;Arauco;8202;Arauco;Sí;33.213;4.257;24.334;4.622
+8;Biobío;82;Arauco;8202;Arauco;No;2.128;804;619;705
+8;Biobío;82;Arauco;8202;Arauco;Sabe leer y escribir no declarado;56;10;32;14
+8;Biobío;82;Arauco;8203;Cañete;Total Comuna;32.900;5.061;22.665;5.174
+8;Biobío;82;Arauco;8203;Cañete;Sí;30.679;4.279;22.034;4.366
+8;Biobío;82;Arauco;8203;Cañete;No;2.164;766;601;797
+8;Biobío;82;Arauco;8203;Cañete;Sabe leer y escribir no declarado;57;16;30;11
+8;Biobío;82;Arauco;8204;Contulmo;Total Comuna;5.656;735;3.868;1.053
+8;Biobío;82;Arauco;8204;Contulmo;Sí;5.229;608;3.736;885
+8;Biobío;82;Arauco;8204;Contulmo;No;410;119;126;165
+8;Biobío;82;Arauco;8204;Contulmo;Sabe leer y escribir no declarado;17;8;6;3
+8;Biobío;82;Arauco;8205;Curanilahue;Total Comuna;29.532;4.278;20.566;4.688
+8;Biobío;82;Arauco;8205;Curanilahue;Sí;27.650;3.647;20.025;3.978
+8;Biobío;82;Arauco;8205;Curanilahue;No;1.837;616;521;700
+8;Biobío;82;Arauco;8205;Curanilahue;Sabe leer y escribir no declarado;45;15;20;10
+8;Biobío;82;Arauco;8206;Los Álamos;Total Comuna;20.839;3.311;14.587;2.941
+8;Biobío;82;Arauco;8206;Los Álamos;Sí;19.444;2.786;14.164;2.494
+8;Biobío;82;Arauco;8206;Los Álamos;No;1.347;504;401;442
+8;Biobío;82;Arauco;8206;Los Álamos;Sabe leer y escribir no declarado;48;21;22;5
+8;Biobío;82;Arauco;8207;Tirúa;Total Comuna;9.629;1.554;6.832;1.243
+8;Biobío;82;Arauco;8207;Tirúa;Sí;8.813;1.297;6.583;933
+8;Biobío;82;Arauco;8207;Tirúa;No;803;251;248;304
+8;Biobío;82;Arauco;8207;Tirúa;Sabe leer y escribir no declarado;13;6;1;6
+8;Biobío;83;Biobío;8301;Los Ángeles;Total Comuna;208.167;30.639;148.062;29.466
+8;Biobío;83;Biobío;8301;Los Ángeles;Sí;196.335;25.094;144.958;26.283
+8;Biobío;83;Biobío;8301;Los Ángeles;No;11.017;5.365;2.582;3.070
+8;Biobío;83;Biobío;8301;Los Ángeles;Sabe leer y escribir no declarado;815;180;522;113
+8;Biobío;83;Biobío;8302;Antuco;Total Comuna;4.209;497;2.844;868
+8;Biobío;83;Biobío;8302;Antuco;Sí;3.969;407;2.772;790
+8;Biobío;83;Biobío;8302;Antuco;No;216;86;55;75
+8;Biobío;83;Biobío;8302;Antuco;Sabe leer y escribir no declarado;24;4;17;3
+8;Biobío;83;Biobío;8303;Cabrero;Total Comuna;29.745;4.016;21.103;4.626
+8;Biobío;83;Biobío;8303;Cabrero;Sí;27.735;3.323;20.565;3.847
+8;Biobío;83;Biobío;8303;Cabrero;No;1.987;680;532;775
+8;Biobío;83;Biobío;8303;Cabrero;Sabe leer y escribir no declarado;23;13;6;4
+8;Biobío;83;Biobío;8304;Laja;Total Comuna;22.597;3.131;15.520;3.946
+8;Biobío;83;Biobío;8304;Laja;Sí;20.922;2.579;15.037;3.306
+8;Biobío;83;Biobío;8304;Laja;No;1.635;544;455;636
+8;Biobío;83;Biobío;8304;Laja;Sabe leer y escribir no declarado;40;8;28;4
+8;Biobío;83;Biobío;8305;Mulchén;Total Comuna;27.676;3.891;19.058;4.727
+8;Biobío;83;Biobío;8305;Mulchén;Sí;25.689;3.235;18.417;4.037
+8;Biobío;83;Biobío;8305;Mulchén;No;1.948;644;617;687
+8;Biobío;83;Biobío;8305;Mulchén;Sabe leer y escribir no declarado;39;12;24;3
+8;Biobío;83;Biobío;8306;Nacimiento;Total Comuna;24.801;3.528;17.264;4.009
+8;Biobío;83;Biobío;8306;Nacimiento;Sí;23.118;2.945;16.842;3.331
+8;Biobío;83;Biobío;8306;Nacimiento;No;1.645;576;402;667
+8;Biobío;83;Biobío;8306;Nacimiento;Sabe leer y escribir no declarado;38;7;20;11
+8;Biobío;83;Biobío;8307;Negrete;Total Comuna;10.187;1.433;7.106;1.648
+8;Biobío;83;Biobío;8307;Negrete;Sí;9.423;1.209;6.884;1.330
+8;Biobío;83;Biobío;8307;Negrete;No;748;223;208;317
+8;Biobío;83;Biobío;8307;Negrete;Sabe leer y escribir no declarado;16;1;14;1
+8;Biobío;83;Biobío;8308;Quilaco;Total Comuna;4.250;549;2.730;971
+8;Biobío;83;Biobío;8308;Quilaco;Sí;3.947;458;2.640;849
+8;Biobío;83;Biobío;8308;Quilaco;No;292;89;83;120
+8;Biobío;83;Biobío;8308;Quilaco;Sabe leer y escribir no declarado;11;2;7;2
+8;Biobío;83;Biobío;8309;Quilleco;Total Comuna;9.241;1.114;6.144;1.983
+8;Biobío;83;Biobío;8309;Quilleco;Sí;8.589;897;5.988;1.704
+8;Biobío;83;Biobío;8309;Quilleco;No;631;205;148;278
+8;Biobío;83;Biobío;8309;Quilleco;Sabe leer y escribir no declarado;21;12;8;1
+8;Biobío;83;Biobío;8310;San Rosendo;Total Comuna;3.444;416;2.336;692
+8;Biobío;83;Biobío;8310;San Rosendo;Sí;3.232;347;2.276;609
+8;Biobío;83;Biobío;8310;San Rosendo;No;207;66;58;83
+8;Biobío;83;Biobío;8310;San Rosendo;Sabe leer y escribir no declarado;5;3;2;0
+8;Biobío;83;Biobío;8311;Santa Bárbara;Total Comuna;13.406;1.805;9.202;2.399
+8;Biobío;83;Biobío;8311;Santa Bárbara;Sí;12.433;1.477;8.928;2.028
+8;Biobío;83;Biobío;8311;Santa Bárbara;No;941;320;252;369
+8;Biobío;83;Biobío;8311;Santa Bárbara;Sabe leer y escribir no declarado;32;8;22;2
+8;Biobío;83;Biobío;8312;Tucapel;Total Comuna;15.039;1.974;10.124;2.941
+8;Biobío;83;Biobío;8312;Tucapel;Sí;14.111;1.604;9.858;2.649
+8;Biobío;83;Biobío;8312;Tucapel;No;888;363;239;286
+8;Biobío;83;Biobío;8312;Tucapel;Sabe leer y escribir no declarado;40;7;27;6
+8;Biobío;83;Biobío;8313;Yumbel;Total Comuna;22.185;2.721;14.865;4.599
+8;Biobío;83;Biobío;8313;Yumbel;Sí;20.521;2.276;14.338;3.907
+8;Biobío;83;Biobío;8313;Yumbel;No;1.626;437;505;684
+8;Biobío;83;Biobío;8313;Yumbel;Sabe leer y escribir no declarado;38;8;22;8
+8;Biobío;83;Biobío;8314;Alto Biobío;Total Comuna;5.650;1.056;4.043;551
+8;Biobío;83;Biobío;8314;Alto Biobío;Sí;4.842;872;3.695;275
+8;Biobío;83;Biobío;8314;Alto Biobío;No;797;174;347;276
+8;Biobío;83;Biobío;8314;Alto Biobío;Sabe leer y escribir no declarado;11;10;1;0
+9;La Araucanía;91;Cautín;9101;Temuco;Total Comuna;278.967;37.295;202.830;38.842
+9;La Araucanía;91;Cautín;9101;Temuco;Sí;266.881;30.902;199.437;36.542
+9;La Araucanía;91;Cautín;9101;Temuco;No;10.031;6.030;2.110;1.891
+9;La Araucanía;91;Cautín;9101;Temuco;Sabe leer y escribir no declarado;2.055;363;1.283;409
+9;La Araucanía;91;Cautín;9102;Carahue;Total Comuna;23.831;3.447;15.933;4.451
+9;La Araucanía;91;Cautín;9102;Carahue;Sí;21.912;2.846;15.255;3.811
+9;La Araucanía;91;Cautín;9102;Carahue;No;1.782;571;585;626
+9;La Araucanía;91;Cautín;9102;Carahue;Sabe leer y escribir no declarado;137;30;93;14
+9;La Araucanía;91;Cautín;9103;Cunco;Total Comuna;18.392;2.475;12.067;3.850
+9;La Araucanía;91;Cautín;9103;Cunco;Sí;17.257;2.035;11.772;3.450
+9;La Araucanía;91;Cautín;9103;Cunco;No;1.029;422;239;368
+9;La Araucanía;91;Cautín;9103;Cunco;Sabe leer y escribir no declarado;106;18;56;32
+9;La Araucanía;91;Cautín;9104;Curarrehue;Total Comuna;7.333;1.143;5.064;1.126
+9;La Araucanía;91;Cautín;9104;Curarrehue;Sí;6.799;939;4.913;947
+9;La Araucanía;91;Cautín;9104;Curarrehue;No;510;196;135;179
+9;La Araucanía;91;Cautín;9104;Curarrehue;Sabe leer y escribir no declarado;24;8;16;0
+9;La Araucanía;91;Cautín;9105;Freire;Total Comuna;24.994;3.207;17.207;4.580
+9;La Araucanía;91;Cautín;9105;Freire;Sí;23.221;2.615;16.640;3.966
+9;La Araucanía;91;Cautín;9105;Freire;No;1.639;559;484;596
+9;La Araucanía;91;Cautín;9105;Freire;Sabe leer y escribir no declarado;134;33;83;18
+9;La Araucanía;91;Cautín;9106;Galvarino;Total Comuna;12.074;1.816;8.204;2.054
+9;La Araucanía;91;Cautín;9106;Galvarino;Sí;10.956;1.547;7.851;1.558
+9;La Araucanía;91;Cautín;9106;Galvarino;No;1.087;256;338;493
+9;La Araucanía;91;Cautín;9106;Galvarino;Sabe leer y escribir no declarado;31;13;15;3
+9;La Araucanía;91;Cautín;9107;Gorbea;Total Comuna;13.562;1.690;8.961;2.911
+9;La Araucanía;91;Cautín;9107;Gorbea;Sí;12.748;1.373;8.722;2.653
+9;La Araucanía;91;Cautín;9107;Gorbea;No;770;311;221;238
+9;La Araucanía;91;Cautín;9107;Gorbea;Sabe leer y escribir no declarado;44;6;18;20
+9;La Araucanía;91;Cautín;9108;Lautaro;Total Comuna;39.777;6.072;27.956;5.749
+9;La Araucanía;91;Cautín;9108;Lautaro;Sí;37.256;5.001;27.237;5.018
+9;La Araucanía;91;Cautín;9108;Lautaro;No;2.323;1.005;608;710
+9;La Araucanía;91;Cautín;9108;Lautaro;Sabe leer y escribir no declarado;198;66;111;21
+9;La Araucanía;91;Cautín;9109;Loncoche;Total Comuna;24.049;3.307;16.191;4.551
+9;La Araucanía;91;Cautín;9109;Loncoche;Sí;22.517;2.693;15.724;4.100
+9;La Araucanía;91;Cautín;9109;Loncoche;No;1.364;578;363;423
+9;La Araucanía;91;Cautín;9109;Loncoche;Sabe leer y escribir no declarado;168;36;104;28
+9;La Araucanía;91;Cautín;9110;Melipeuco;Total Comuna;6.462;874;4.314;1.274
+9;La Araucanía;91;Cautín;9110;Melipeuco;Sí;5.996;701;4.202;1.093
+9;La Araucanía;91;Cautín;9110;Melipeuco;No;439;169;106;164
+9;La Araucanía;91;Cautín;9110;Melipeuco;Sabe leer y escribir no declarado;27;4;6;17
+9;La Araucanía;91;Cautín;9111;Nueva Imperial;Total Comuna;32.265;4.509;21.969;5.787
+9;La Araucanía;91;Cautín;9111;Nueva Imperial;Sí;29.981;3.697;21.317;4.967
+9;La Araucanía;91;Cautín;9111;Nueva Imperial;No;2.148;764;580;804
+9;La Araucanía;91;Cautín;9111;Nueva Imperial;Sabe leer y escribir no declarado;136;48;72;16
+9;La Araucanía;91;Cautín;9112;Padre Las Casas;Total Comuna;76.407;11.733;54.673;10.001
+9;La Araucanía;91;Cautín;9112;Padre Las Casas;Sí;71.811;9.641;53.404;8.766
+9;La Araucanía;91;Cautín;9112;Padre Las Casas;No;4.344;2.022;1.132;1.190
+9;La Araucanía;91;Cautín;9112;Padre Las Casas;Sabe leer y escribir no declarado;252;70;137;45
+9;La Araucanía;91;Cautín;9113;Perquenco;Total Comuna;7.094;1.039;4.864;1.191
+9;La Araucanía;91;Cautín;9113;Perquenco;Sí;6.635;876;4.740;1.019
+9;La Araucanía;91;Cautín;9113;Perquenco;No;436;155;115;166
+9;La Araucanía;91;Cautín;9113;Perquenco;Sabe leer y escribir no declarado;23;8;9;6
+9;La Araucanía;91;Cautín;9114;Pitrufquén;Total Comuna;25.818;3.574;17.675;4.569
+9;La Araucanía;91;Cautín;9114;Pitrufquén;Sí;24.239;2.897;17.208;4.134
+9;La Araucanía;91;Cautín;9114;Pitrufquén;No;1.392;645;347;400
+9;La Araucanía;91;Cautín;9114;Pitrufquén;Sabe leer y escribir no declarado;187;32;120;35
+9;La Araucanía;91;Cautín;9115;Pucón;Total Comuna;30.701;4.563;21.784;4.354
+9;La Araucanía;91;Cautín;9115;Pucón;Sí;29.163;3.682;21.392;4.089
+9;La Araucanía;91;Cautín;9115;Pucón;No;1.275;827;218;230
+9;La Araucanía;91;Cautín;9115;Pucón;Sabe leer y escribir no declarado;263;54;174;35
+9;La Araucanía;91;Cautín;9116;Saavedra;Total Comuna;12.286;1.761;8.044;2.481
+9;La Araucanía;91;Cautín;9116;Saavedra;Sí;11.201;1.438;7.686;2.077
+9;La Araucanía;91;Cautín;9116;Saavedra;No;1.025;306;329;390
+9;La Araucanía;91;Cautín;9116;Saavedra;Sabe leer y escribir no declarado;60;17;29;14
+9;La Araucanía;91;Cautín;9117;Teodoro Schmidt;Total Comuna;14.954;2.103;9.730;3.121
+9;La Araucanía;91;Cautín;9117;Teodoro Schmidt;Sí;13.908;1.768;9.425;2.715
+9;La Araucanía;91;Cautín;9117;Teodoro Schmidt;No;1.014;327;285;402
+9;La Araucanía;91;Cautín;9117;Teodoro Schmidt;Sabe leer y escribir no declarado;32;8;20;4
+9;La Araucanía;91;Cautín;9118;Toltén;Total Comuna;9.609;1.277;6.462;1.870
+9;La Araucanía;91;Cautín;9118;Toltén;Sí;8.930;1.043;6.261;1.626
+9;La Araucanía;91;Cautín;9118;Toltén;No;666;227;197;242
+9;La Araucanía;91;Cautín;9118;Toltén;Sabe leer y escribir no declarado;13;7;4;2
+9;La Araucanía;91;Cautín;9119;Vilcún;Total Comuna;30.012;4.556;21.132;4.324
+9;La Araucanía;91;Cautín;9119;Vilcún;Sí;28.140;3.768;20.606;3.766
+9;La Araucanía;91;Cautín;9119;Vilcún;No;1.787;766;474;547
+9;La Araucanía;91;Cautín;9119;Vilcún;Sabe leer y escribir no declarado;85;22;52;11
+9;La Araucanía;91;Cautín;9120;Villarrica;Total Comuna;64.291;9.744;44.700;9.847
+9;La Araucanía;91;Cautín;9120;Villarrica;Sí;61.045;7.946;43.876;9.223
+9;La Araucanía;91;Cautín;9120;Villarrica;No;2.824;1.694;551;579
+9;La Araucanía;91;Cautín;9120;Villarrica;Sabe leer y escribir no declarado;422;104;273;45
+9;La Araucanía;91;Cautín;9121;Cholchol;Total Comuna;12.502;2.018;8.435;2.049
+9;La Araucanía;91;Cautín;9121;Cholchol;Sí;11.357;1.638;8.095;1.624
+9;La Araucanía;91;Cautín;9121;Cholchol;No;1.103;371;311;421
+9;La Araucanía;91;Cautín;9121;Cholchol;Sabe leer y escribir no declarado;42;9;29;4
+9;La Araucanía;92;Malleco;9201;Angol;Total Comuna;50.476;7.261;34.992;8.223
+9;La Araucanía;92;Malleco;9201;Angol;Sí;47.190;5.984;33.998;7.208
+9;La Araucanía;92;Malleco;9201;Angol;No;2.984;1.201;813;970
+9;La Araucanía;92;Malleco;9201;Angol;Sabe leer y escribir no declarado;302;76;181;45
+9;La Araucanía;92;Malleco;9202;Collipulli;Total Comuna;23.146;3.409;15.998;3.739
+9;La Araucanía;92;Malleco;9202;Collipulli;Sí;21.363;2.840;15.400;3.123
+9;La Araucanía;92;Malleco;9202;Collipulli;No;1.672;549;513;610
+9;La Araucanía;92;Malleco;9202;Collipulli;Sabe leer y escribir no declarado;111;20;85;6
+9;La Araucanía;92;Malleco;9203;Curacautín;Total Comuna;17.762;2.411;11.835;3.516
+9;La Araucanía;92;Malleco;9203;Curacautín;Sí;16.705;1.984;11.552;3.169
+9;La Araucanía;92;Malleco;9203;Curacautín;No;1.009;418;249;342
+9;La Araucanía;92;Malleco;9203;Curacautín;Sabe leer y escribir no declarado;48;9;34;5
+9;La Araucanía;92;Malleco;9204;Ercilla;Total Comuna;7.317;1.158;4.934;1.225
+9;La Araucanía;92;Malleco;9204;Ercilla;Sí;6.627;951;4.710;966
+9;La Araucanía;92;Malleco;9204;Ercilla;No;665;200;208;257
+9;La Araucanía;92;Malleco;9204;Ercilla;Sabe leer y escribir no declarado;25;7;16;2
+9;La Araucanía;92;Malleco;9205;Lonquimay;Total Comuna;9.661;1.488;6.586;1.587
+9;La Araucanía;92;Malleco;9205;Lonquimay;Sí;8.882;1.249;6.383;1.250
+9;La Araucanía;92;Malleco;9205;Lonquimay;No;729;225;172;332
+9;La Araucanía;92;Malleco;9205;Lonquimay;Sabe leer y escribir no declarado;50;14;31;5
+9;La Araucanía;92;Malleco;9206;Los Sauces;Total Comuna;6.964;930;4.720;1.314
+9;La Araucanía;92;Malleco;9206;Los Sauces;Sí;6.286;745;4.499;1.042
+9;La Araucanía;92;Malleco;9206;Los Sauces;No;655;181;208;266
+9;La Araucanía;92;Malleco;9206;Los Sauces;Sabe leer y escribir no declarado;23;4;13;6
+9;La Araucanía;92;Malleco;9207;Lumaco;Total Comuna;8.818;1.235;6.000;1.583
+9;La Araucanía;92;Malleco;9207;Lumaco;Sí;7.838;1.001;5.655;1.182
+9;La Araucanía;92;Malleco;9207;Lumaco;No;944;224;322;398
+9;La Araucanía;92;Malleco;9207;Lumaco;Sabe leer y escribir no declarado;36;10;23;3
+9;La Araucanía;92;Malleco;9208;Purén;Total Comuna;11.618;1.693;7.830;2.095
+9;La Araucanía;92;Malleco;9208;Purén;Sí;10.665;1.394;7.501;1.770
+9;La Araucanía;92;Malleco;9208;Purén;No;926;292;310;324
+9;La Araucanía;92;Malleco;9208;Purén;Sabe leer y escribir no declarado;27;7;19;1
+9;La Araucanía;92;Malleco;9209;Renaico;Total Comuna;10.128;1.454;7.020;1.654
+9;La Araucanía;92;Malleco;9209;Renaico;Sí;9.365;1.219;6.743;1.403
+9;La Araucanía;92;Malleco;9209;Renaico;No;727;227;254;246
+9;La Araucanía;92;Malleco;9209;Renaico;Sabe leer y escribir no declarado;36;8;23;5
+9;La Araucanía;92;Malleco;9210;Traiguén;Total Comuna;17.967;2.554;11.905;3.508
+9;La Araucanía;92;Malleco;9210;Traiguén;Sí;16.496;2.093;11.452;2.951
+9;La Araucanía;92;Malleco;9210;Traiguén;No;1.331;435;392;504
+9;La Araucanía;92;Malleco;9210;Traiguén;Sabe leer y escribir no declarado;140;26;61;53
+9;La Araucanía;92;Malleco;9211;Victoria;Total Comuna;32.799;4.553;22.387;5.859
+9;La Araucanía;92;Malleco;9211;Victoria;Sí;30.815;3.724;21.835;5.256
+9;La Araucanía;92;Malleco;9211;Victoria;No;1.880;802;493;585
+9;La Araucanía;92;Malleco;9211;Victoria;Sabe leer y escribir no declarado;104;27;59;18
+14;Los Ríos;141;Valdivia;14101;Valdivia;Total Comuna;163.069;20.503;118.394;24.172
+14;Los Ríos;141;Valdivia;14101;Valdivia;Sí;156.143;16.904;116.359;22.880
+14;Los Ríos;141;Valdivia;14101;Valdivia;No;5.788;3.401;1.283;1.104
+14;Los Ríos;141;Valdivia;14101;Valdivia;Sabe leer y escribir no declarado;1.138;198;752;188
+14;Los Ríos;141;Valdivia;14102;Corral;Total Comuna;5.286;650;3.588;1.048
+14;Los Ríos;141;Valdivia;14102;Corral;Sí;4.974;525;3.500;949
+14;Los Ríos;141;Valdivia;14102;Corral;No;298;122;79;97
+14;Los Ríos;141;Valdivia;14102;Corral;Sabe leer y escribir no declarado;14;3;9;2
+14;Los Ríos;141;Valdivia;14103;Lanco;Total Comuna;16.101;2.285;11.093;2.723
+14;Los Ríos;141;Valdivia;14103;Lanco;Sí;15.187;1.879;10.850;2.458
+14;Los Ríos;141;Valdivia;14103;Lanco;No;847;389;196;262
+14;Los Ríos;141;Valdivia;14103;Lanco;Sabe leer y escribir no declarado;67;17;47;3
+14;Los Ríos;141;Valdivia;14104;Los Lagos;Total Comuna;20.397;2.866;14.163;3.368
+14;Los Ríos;141;Valdivia;14104;Los Lagos;Sí;18.992;2.321;13.765;2.906
+14;Los Ríos;141;Valdivia;14104;Los Lagos;No;1.354;533;371;450
+14;Los Ríos;141;Valdivia;14104;Los Lagos;Sabe leer y escribir no declarado;51;12;27;12
+14;Los Ríos;141;Valdivia;14105;Máfil;Total Comuna;7.696;1.063;5.314;1.319
+14;Los Ríos;141;Valdivia;14105;Máfil;Sí;7.250;865;5.206;1.179
+14;Los Ríos;141;Valdivia;14105;Máfil;No;433;197;99;137
+14;Los Ríos;141;Valdivia;14105;Máfil;Sabe leer y escribir no declarado;13;1;9;3
+14;Los Ríos;141;Valdivia;14106;Mariquina;Total Comuna;21.762;3.367;15.109;3.286
+14;Los Ríos;141;Valdivia;14106;Mariquina;Sí;20.354;2.768;14.680;2.906
+14;Los Ríos;141;Valdivia;14106;Mariquina;No;1.220;561;311;348
+14;Los Ríos;141;Valdivia;14106;Mariquina;Sabe leer y escribir no declarado;188;38;118;32
+14;Los Ríos;141;Valdivia;14107;Paillaco;Total Comuna;18.898;2.577;12.871;3.450
+14;Los Ríos;141;Valdivia;14107;Paillaco;Sí;17.648;2.121;12.514;3.013
+14;Los Ríos;141;Valdivia;14107;Paillaco;No;1.170;430;321;419
+14;Los Ríos;141;Valdivia;14107;Paillaco;Sabe leer y escribir no declarado;80;26;36;18
+14;Los Ríos;141;Valdivia;14108;Panguipulli;Total Comuna;33.379;4.813;23.089;5.477
+14;Los Ríos;141;Valdivia;14108;Panguipulli;Sí;30.890;3.934;22.326;4.630
+14;Los Ríos;141;Valdivia;14108;Panguipulli;No;2.323;849;650;824
+14;Los Ríos;141;Valdivia;14108;Panguipulli;Sabe leer y escribir no declarado;166;30;113;23
+14;Los Ríos;142;Ranco;14201;La Unión;Total Comuna;37.267;5.078;25.688;6.501
+14;Los Ríos;142;Ranco;14201;La Unión;Sí;35.201;4.257;25.097;5.847
+14;Los Ríos;142;Ranco;14201;La Unión;No;1.949;789;524;636
+14;Los Ríos;142;Ranco;14201;La Unión;Sabe leer y escribir no declarado;117;32;67;18
+14;Los Ríos;142;Ranco;14202;Futrono;Total Comuna;14.871;2.372;10.222;2.277
+14;Los Ríos;142;Ranco;14202;Futrono;Sí;13.837;1.940;9.928;1.969
+14;Los Ríos;142;Ranco;14202;Futrono;No;1.001;420;275;306
+14;Los Ríos;142;Ranco;14202;Futrono;Sabe leer y escribir no declarado;33;12;19;2
+14;Los Ríos;142;Ranco;14203;Lago Ranco;Total Comuna;10.014;1.389;6.800;1.825
+14;Los Ríos;142;Ranco;14203;Lago Ranco;Sí;9.278;1.116;6.551;1.611
+14;Los Ríos;142;Ranco;14203;Lago Ranco;No;688;265;220;203
+14;Los Ríos;142;Ranco;14203;Lago Ranco;Sabe leer y escribir no declarado;48;8;29;11
+14;Los Ríos;142;Ranco;14204;Río Bueno;Total Comuna;31.933;4.192;21.900;5.841
+14;Los Ríos;142;Ranco;14204;Río Bueno;Sí;30.066;3.511;21.339;5.216
+14;Los Ríos;142;Ranco;14204;Río Bueno;No;1.796;668;523;605
+14;Los Ríos;142;Ranco;14204;Río Bueno;Sabe leer y escribir no declarado;71;13;38;20
+10;Los Lagos;101;Llanquihue;10101;Puerto Montt;Total Comuna;263.535;37.755;197.229;28.551
+10;Los Lagos;101;Llanquihue;10101;Puerto Montt;Sí;250.876;31.191;193.503;26.182
+10;Los Lagos;101;Llanquihue;10101;Puerto Montt;No;10.921;6.217;2.466;2.238
+10;Los Lagos;101;Llanquihue;10101;Puerto Montt;Sabe leer y escribir no declarado;1.738;347;1.260;131
+10;Los Lagos;101;Llanquihue;10102;Calbuco;Total Comuna;34.720;4.674;24.646;5.400
+10;Los Lagos;101;Llanquihue;10102;Calbuco;Sí;32.280;3.872;23.884;4.524
+10;Los Lagos;101;Llanquihue;10102;Calbuco;No;2.347;779;701;867
+10;Los Lagos;101;Llanquihue;10102;Calbuco;Sabe leer y escribir no declarado;93;23;61;9
+10;Los Lagos;101;Llanquihue;10103;Cochamó;Total Comuna;4.037;425;2.784;828
+10;Los Lagos;101;Llanquihue;10103;Cochamó;Sí;3.801;343;2.701;757
+10;Los Lagos;101;Llanquihue;10103;Cochamó;No;227;80;77;70
+10;Los Lagos;101;Llanquihue;10103;Cochamó;Sabe leer y escribir no declarado;9;2;6;1
+10;Los Lagos;101;Llanquihue;10104;Fresia;Total Comuna;11.763;1.478;8.086;2.199
+10;Los Lagos;101;Llanquihue;10104;Fresia;Sí;10.897;1.189;7.776;1.932
+10;Los Lagos;101;Llanquihue;10104;Fresia;No;831;283;291;257
+10;Los Lagos;101;Llanquihue;10104;Fresia;Sabe leer y escribir no declarado;35;6;19;10
+10;Los Lagos;101;Llanquihue;10105;Frutillar;Total Comuna;21.399;3.189;15.096;3.114
+10;Los Lagos;101;Llanquihue;10105;Frutillar;Sí;20.249;2.665;14.739;2.845
+10;Los Lagos;101;Llanquihue;10105;Frutillar;No;1.029;495;272;262
+10;Los Lagos;101;Llanquihue;10105;Frutillar;Sabe leer y escribir no declarado;121;29;85;7
+10;Los Lagos;101;Llanquihue;10106;Los Muermos;Total Comuna;16.416;2.141;11.188;3.087
+10;Los Lagos;101;Llanquihue;10106;Los Muermos;Sí;15.396;1.793;10.862;2.741
+10;Los Lagos;101;Llanquihue;10106;Los Muermos;No;992;338;313;341
+10;Los Lagos;101;Llanquihue;10106;Los Muermos;Sabe leer y escribir no declarado;28;10;13;5
+10;Los Lagos;101;Llanquihue;10107;Llanquihue;Total Comuna;17.269;2.335;12.241;2.693
+10;Los Lagos;101;Llanquihue;10107;Llanquihue;Sí;16.247;1.899;11.956;2.392
+10;Los Lagos;101;Llanquihue;10107;Llanquihue;No;939;414;231;294
+10;Los Lagos;101;Llanquihue;10107;Llanquihue;Sabe leer y escribir no declarado;83;22;54;7
+10;Los Lagos;101;Llanquihue;10108;Maullín;Total Comuna;14.425;1.754;9.842;2.829
+10;Los Lagos;101;Llanquihue;10108;Maullín;Sí;13.535;1.454;9.519;2.562
+10;Los Lagos;101;Llanquihue;10108;Maullín;No;878;293;318;267
+10;Los Lagos;101;Llanquihue;10108;Maullín;Sabe leer y escribir no declarado;12;7;5;0
+10;Los Lagos;101;Llanquihue;10109;Puerto Varas;Total Comuna;49.918;7.626;35.979;6.313
+10;Los Lagos;101;Llanquihue;10109;Puerto Varas;Sí;47.498;6.326;35.286;5.886
+10;Los Lagos;101;Llanquihue;10109;Puerto Varas;No;2.001;1.222;420;359
+10;Los Lagos;101;Llanquihue;10109;Puerto Varas;Sabe leer y escribir no declarado;419;78;273;68
+10;Los Lagos;102;Chiloé;10201;Castro;Total Comuna;44.896;6.112;32.887;5.897
+10;Los Lagos;102;Chiloé;10201;Castro;Sí;42.767;5.077;32.226;5.464
+10;Los Lagos;102;Chiloé;10201;Castro;No;1.819;965;445;409
+10;Los Lagos;102;Chiloé;10201;Castro;Sabe leer y escribir no declarado;310;70;216;24
+10;Los Lagos;102;Chiloé;10202;Ancud;Total Comuna;39.319;5.074;27.601;6.644
+10;Los Lagos;102;Chiloé;10202;Ancud;Sí;37.227;4.216;26.921;6.090
+10;Los Lagos;102;Chiloé;10202;Ancud;No;1.899;813;548;538
+10;Los Lagos;102;Chiloé;10202;Ancud;Sabe leer y escribir no declarado;193;45;132;16
+10;Los Lagos;102;Chiloé;10203;Chonchi;Total Comuna;15.363;2.005;11.180;2.178
+10;Los Lagos;102;Chiloé;10203;Chonchi;Sí;14.517;1.674;10.910;1.933
+10;Los Lagos;102;Chiloé;10203;Chonchi;No;784;315;229;240
+10;Los Lagos;102;Chiloé;10203;Chonchi;Sabe leer y escribir no declarado;62;16;41;5
+10;Los Lagos;102;Chiloé;10204;Curaco de Vélez;Total Comuna;3.511;436;2.410;665
+10;Los Lagos;102;Chiloé;10204;Curaco de Vélez;Sí;3.339;384;2.359;596
+10;Los Lagos;102;Chiloé;10204;Curaco de Vélez;No;169;52;48;69
+10;Los Lagos;102;Chiloé;10204;Curaco de Vélez;Sabe leer y escribir no declarado;3;0;3;0
+10;Los Lagos;102;Chiloé;10205;Dalcahue;Total Comuna;14.156;1.940;10.280;1.936
+10;Los Lagos;102;Chiloé;10205;Dalcahue;Sí;13.452;1.647;10.074;1.731
+10;Los Lagos;102;Chiloé;10205;Dalcahue;No;656;282;171;203
+10;Los Lagos;102;Chiloé;10205;Dalcahue;Sabe leer y escribir no declarado;48;11;35;2
+10;Los Lagos;102;Chiloé;10206;Puqueldón;Total Comuna;3.892;467;2.686;739
+10;Los Lagos;102;Chiloé;10206;Puqueldón;Sí;3.693;401;2.627;665
+10;Los Lagos;102;Chiloé;10206;Puqueldón;No;188;63;51;74
+10;Los Lagos;102;Chiloé;10206;Puqueldón;Sabe leer y escribir no declarado;11;3;8;0
+10;Los Lagos;102;Chiloé;10207;Queilén;Total Comuna;5.414;667;3.852;895
+10;Los Lagos;102;Chiloé;10207;Queilén;Sí;5.070;561;3.738;771
+10;Los Lagos;102;Chiloé;10207;Queilén;No;335;102;111;122
+10;Los Lagos;102;Chiloé;10207;Queilén;Sabe leer y escribir no declarado;9;4;3;2
+10;Los Lagos;102;Chiloé;10208;Quellón;Total Comuna;26.851;4.028;20.181;2.642
+10;Los Lagos;102;Chiloé;10208;Quellón;Sí;25.139;3.300;19.610;2.229
+10;Los Lagos;102;Chiloé;10208;Quellón;No;1.565;682;477;406
+10;Los Lagos;102;Chiloé;10208;Quellón;Sabe leer y escribir no declarado;147;46;94;7
+10;Los Lagos;102;Chiloé;10209;Quemchi;Total Comuna;8.095;921;5.645;1.529
+10;Los Lagos;102;Chiloé;10209;Quemchi;Sí;7.571;767;5.470;1.334
+10;Los Lagos;102;Chiloé;10209;Quemchi;No;518;151;172;195
+10;Los Lagos;102;Chiloé;10209;Quemchi;Sabe leer y escribir no declarado;6;3;3;0
+10;Los Lagos;102;Chiloé;10210;Quinchao;Total Comuna;7.389;850;5.140;1.399
+10;Los Lagos;102;Chiloé;10210;Quinchao;Sí;6.899;724;4.969;1.206
+10;Los Lagos;102;Chiloé;10210;Quinchao;No;472;121;160;191
+10;Los Lagos;102;Chiloé;10210;Quinchao;Sabe leer y escribir no declarado;18;5;11;2
+10;Los Lagos;103;Osorno;10301;Osorno;Total Comuna;159.322;21.299;113.899;24.124
+10;Los Lagos;103;Osorno;10301;Osorno;Sí;151.455;17.724;111.448;22.283
+10;Los Lagos;103;Osorno;10301;Osorno;No;6.851;3.376;1.819;1.656
+10;Los Lagos;103;Osorno;10301;Osorno;Sabe leer y escribir no declarado;1.016;199;632;185
+10;Los Lagos;103;Osorno;10302;Puerto Octay;Total Comuna;8.478;1.093;5.904;1.481
+10;Los Lagos;103;Osorno;10302;Puerto Octay;Sí;7.969;925;5.725;1.319
+10;Los Lagos;103;Osorno;10302;Puerto Octay;No;472;162;151;159
+10;Los Lagos;103;Osorno;10302;Puerto Octay;Sabe leer y escribir no declarado;37;6;28;3
+10;Los Lagos;103;Osorno;10303;Purranque;Total Comuna;18.714;2.466;12.721;3.527
+10;Los Lagos;103;Osorno;10303;Purranque;Sí;17.652;2.062;12.405;3.185
+10;Los Lagos;103;Osorno;10303;Purranque;No;1.007;392;276;339
+10;Los Lagos;103;Osorno;10303;Purranque;Sabe leer y escribir no declarado;55;12;40;3
+10;Los Lagos;103;Osorno;10304;Puyehue;Total Comuna;11.207;1.508;7.745;1.954
+10;Los Lagos;103;Osorno;10304;Puyehue;Sí;10.528;1.247;7.562;1.719
+10;Los Lagos;103;Osorno;10304;Puyehue;No;654;251;170;233
+10;Los Lagos;103;Osorno;10304;Puyehue;Sabe leer y escribir no declarado;25;10;13;2
+10;Los Lagos;103;Osorno;10305;Río Negro;Total Comuna;13.290;1.694;9.020;2.576
+10;Los Lagos;103;Osorno;10305;Río Negro;Sí;12.445;1.411;8.721;2.313
+10;Los Lagos;103;Osorno;10305;Río Negro;No;781;272;256;253
+10;Los Lagos;103;Osorno;10305;Río Negro;Sabe leer y escribir no declarado;64;11;43;10
+10;Los Lagos;103;Osorno;10306;San Juan de la Costa;Total Comuna;7.517;806;5.027;1.684
+10;Los Lagos;103;Osorno;10306;San Juan de la Costa;Sí;6.857;661;4.801;1.395
+10;Los Lagos;103;Osorno;10306;San Juan de la Costa;No;635;138;213;284
+10;Los Lagos;103;Osorno;10306;San Juan de la Costa;Sabe leer y escribir no declarado;25;7;13;5
+10;Los Lagos;103;Osorno;10307;San Pablo;Total Comuna;10.445;1.366;7.027;2.052
+10;Los Lagos;103;Osorno;10307;San Pablo;Sí;9.757;1.123;6.813;1.821
+10;Los Lagos;103;Osorno;10307;San Pablo;No;646;233;190;223
+10;Los Lagos;103;Osorno;10307;San Pablo;Sabe leer y escribir no declarado;42;10;24;8
+10;Los Lagos;104;Palena;10401;Chaitén;Total Comuna;3.833;492;2.718;623
+10;Los Lagos;104;Palena;10401;Chaitén;Sí;3.558;395;2.620;543
+10;Los Lagos;104;Palena;10401;Chaitén;No;221;86;64;71
+10;Los Lagos;104;Palena;10401;Chaitén;Sabe leer y escribir no declarado;54;11;34;9
+10;Los Lagos;104;Palena;10402;Futaleufú;Total Comuna;2.895;412;2.073;410
+10;Los Lagos;104;Palena;10402;Futaleufú;Sí;2.751;332;2.046;373
+10;Los Lagos;104;Palena;10402;Futaleufú;No;131;77;18;36
+10;Los Lagos;104;Palena;10402;Futaleufú;Sabe leer y escribir no declarado;13;3;9;1
+10;Los Lagos;104;Palena;10403;Hualaihué;Total Comuna;9.019;1.237;6.483;1.299
+10;Los Lagos;104;Palena;10403;Hualaihué;Sí;8.389;1.010;6.273;1.106
+10;Los Lagos;104;Palena;10403;Hualaihué;No;612;221;198;193
+10;Los Lagos;104;Palena;10403;Hualaihué;Sabe leer y escribir no declarado;18;6;12;0
+10;Los Lagos;104;Palena;10404;Palena;Total Comuna;1.816;208;1.248;360
+10;Los Lagos;104;Palena;10404;Palena;Sí;1.733;176;1.230;327
+10;Los Lagos;104;Palena;10404;Palena;No;80;31;16;33
+10;Los Lagos;104;Palena;10404;Palena;Sabe leer y escribir no declarado;3;1;2;0
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11101;Coyhaique;Total Comuna;55.020;8.417;39.411;7.192
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11101;Coyhaique;Sí;52.186;6.997;38.680;6.509
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11101;Coyhaique;No;2.456;1.333;476;647
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11101;Coyhaique;Sabe leer y escribir no declarado;378;87;255;36
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11102;Lago Verde;Total Comuna;757;65;533;159
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11102;Lago Verde;Sí;701;50;518;133
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11102;Lago Verde;No;55;15;14;26
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11102;Lago Verde;Sabe leer y escribir no declarado;1;0;1;0
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11201;Aysén;Total Comuna;22.090;3.379;15.965;2.746
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11201;Aysén;Sí;20.884;2.858;15.615;2.411
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11201;Aysén;No;1.054;497;258;299
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11201;Aysén;Sabe leer y escribir no declarado;152;24;92;36
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11202;Cisnes;Total Comuna;4.921;733;3.580;608
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11202;Cisnes;Sí;4.646;596;3.521;529
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11202;Cisnes;No;262;132;51;79
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11202;Cisnes;Sabe leer y escribir no declarado;13;5;8;0
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11203;Guaitecas;Total Comuna;1.521;206;1.155;160
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11203;Guaitecas;Sí;1.448;184;1.128;136
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11203;Guaitecas;No;72;22;26;24
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11203;Guaitecas;Sabe leer y escribir no declarado;1;0;1;0
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11301;Cochrane;Total Comuna;3.265;487;2.336;442
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11301;Cochrane;Sí;3.075;400;2.301;374
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11301;Cochrane;No;184;86;31;67
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11301;Cochrane;Sabe leer y escribir no declarado;6;1;4;1
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11302;O'Higgins;Total Comuna;612;97;460;55
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11302;O'Higgins;Sí;586;84;453;49
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11302;O'Higgins;No;24;13;6;5
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11302;O'Higgins;Sabe leer y escribir no declarado;2;0;1;1
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11303;Tortel;Total Comuna;477;79;365;33
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11303;Tortel;Sí;451;66;358;27
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11303;Tortel;No;26;13;7;6
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11303;Tortel;Sabe leer y escribir no declarado;0;0;0;0
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11401;Chile Chico;Total Comuna;4.679;636;3.242;801
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11401;Chile Chico;Sí;4.407;518;3.178;711
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11401;Chile Chico;No;244;112;47;85
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11401;Chile Chico;Sabe leer y escribir no declarado;28;6;17;5
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11402;Río Ibáñez;Total Comuna;2.593;290;1.794;509
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11402;Río Ibáñez;Sí;2.440;233;1.765;442
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11402;Río Ibáñez;No;147;55;25;67
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11402;Río Ibáñez;Sabe leer y escribir no declarado;6;2;4;0
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12101;Punta Arenas;Total Comuna;126.814;16.184;90.957;19.673
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12101;Punta Arenas;Sí;121.961;13.463;89.653;18.845
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12101;Punta Arenas;No;3.847;2.566;619;662
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12101;Punta Arenas;Sabe leer y escribir no declarado;1.006;155;685;166
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12102;Laguna Blanca;Total Comuna;262;14;218;30
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12102;Laguna Blanca;Sí;248;12;208;28
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12102;Laguna Blanca;No;4;1;1;2
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12102;Laguna Blanca;Sabe leer y escribir no declarado;10;1;9;0
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12103;Río Verde;Total Comuna;99;3;79;17
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12103;Río Verde;Sí;90;3;73;14
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12103;Río Verde;No;9;0;6;3
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12103;Río Verde;Sabe leer y escribir no declarado;0;0;0;0
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12104;San Gregorio;Total Comuna;234;26;171;37
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12104;San Gregorio;Sí;228;24;169;35
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12104;San Gregorio;No;6;2;2;2
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12104;San Gregorio;Sabe leer y escribir no declarado;0;0;0;0
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12201;Cabo de Hornos;Total Comuna;1.637;334;1.207;96
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12201;Cabo de Hornos;Sí;1.555;267;1.196;92
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12201;Cabo de Hornos;No;72;65;4;3
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12201;Cabo de Hornos;Sabe leer y escribir no declarado;10;2;7;1
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12202;Antártica;Total Comuna;60;0;60;0
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12202;Antártica;Sí;60;0;60;0
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12202;Antártica;No;0;0;0;0
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12202;Antártica;Sabe leer y escribir no declarado;0;0;0;0
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12301;Porvenir;Total Comuna;6.443;935;4.719;789
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12301;Porvenir;Sí;6.190;773;4.668;749
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12301;Porvenir;No;242;161;43;38
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12301;Porvenir;Sabe leer y escribir no declarado;11;1;8;2
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12302;Primavera;Total Comuna;416;69;290;57
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12302;Primavera;Sí;404;61;287;56
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12302;Primavera;No;12;8;3;1
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12302;Primavera;Sabe leer y escribir no declarado;0;0;0;0
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12303;Timaukel;Total Comuna;150;20;119;11
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12303;Timaukel;Sí;146;18;119;9
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12303;Timaukel;No;3;2;0;1
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12303;Timaukel;Sabe leer y escribir no declarado;1;0;0;1
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12401;Natales;Total Comuna;23.027;2.999;16.561;3.467
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12401;Natales;Sí;22.065;2.489;16.326;3.250
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12401;Natales;No;835;484;147;204
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12401;Natales;Sabe leer y escribir no declarado;127;26;88;13
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12402;Torres del Paine;Total Comuna;194;14;155;25
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12402;Torres del Paine;Sí;187;11;153;23
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12402;Torres del Paine;No;7;3;2;2
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12402;Torres del Paine;Sabe leer y escribir no declarado;0;0;0;0
