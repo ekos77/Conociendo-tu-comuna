@@ -153,9 +153,9 @@
           </p>
           <h6 class="fw-bold">Contacto</h6>
           <ul class="list-unstyled mb-0">
-            <li><strong><i class="bi bi-envelope-at-fill"></i></strong> ejemplo@email.com</li>
-            <li><strong><i class="bi bi-telephone-fill"></i></strong> +56 9 7845 1289</li>
-            <li><strong><i class="bi bi-github"></i></strong> <a href="https://github.com/ekos77" target="_blank">github.com/ekos77</a></li>
+            <li><strong><i class="bi bi-envelope-at-fill"></i></strong> seguel.claudio.a@gmail.com</li>
+            <li><strong><i class="bi bi-telephone-fill"></i></strong> +56 9 75310981</li>
+            <li><strong><i class="bi bi-github"></i></strong> <a href="https://github.com/ekos77" target="_blank">github/ekos77</a></li>
           </ul>
         </div>
       </div>
