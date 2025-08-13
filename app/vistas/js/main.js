@@ -93,7 +93,6 @@ function cargarCSV() {
 }
 
 function cargarGeoJSON() {
-  // fetch('app/vistas/geojson/comunas.geojson')
   fetch('app/vistas/geojson/map.geojson')
 
     .then(res => res.json())
@@ -420,7 +419,7 @@ function poblarCards(datos, container) {
       <div class="col-md-4">
         <div class="card text-center">
           <div class="card-body">
-            <h5 class="card-title">5 a 14</h5>
+            <h5 class="card-title">No lee 5 a 14</h5>
             <p class="display-6 text-danger">${edad_5_14}</p>
           </div>
         </div>
@@ -428,7 +427,7 @@ function poblarCards(datos, container) {
       <div class="col-md-4">
         <div class="card text-center">
           <div class="card-body">
-            <h5 class="card-title">15 a 64</h5>
+            <h5 class="card-title">No lee 15 a 64</h5>
             <p class="display-6 text-primary">${edad_15_64}</p>
           </div>
         </div>
@@ -436,7 +435,7 @@ function poblarCards(datos, container) {
       <div class="col-md-4">
         <div class="card text-center">
           <div class="card-body">
-            <h5 class="card-title">65+</h5>
+            <h5 class="card-title">No lee 65+</h5>
             <p class="display-6 text-primary">${edad_65_mas}</p>
           </div>
         </div>
